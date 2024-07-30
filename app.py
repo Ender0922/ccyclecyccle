@@ -6,13 +6,9 @@ app = Flask(__name__)
 def index():
     return render_template('Main/main.html')
 
-@app.route('/food_type')
-def food_type():
-    return render_template('Track/Selection/food_type.html')
-
-@app.route('/taste_selection')
-def taste_selection():
-    return render_template('Track/Selection/taste_selection.html')
+@app.route('/people_selection')
+def selection():
+    return render_template('Track/Selection/people_selection.html')
 
 @app.route('/management')
 def management():
