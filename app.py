@@ -38,4 +38,5 @@ def when_selection():
     return render_template('Track/Selection/when_selection.html', time=time)
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run('0.0.0.0', port=5000, debug=True)
+print()
