@@ -18,8 +18,8 @@ document.addEventListener('DOMContentLoaded', function() {
     highlightBox.addEventListener('click', function(event) {
         const selectedBox = document.querySelector('.selection-box.selected');
         if (selectedBox) {
-            const people = selectedBox.getAttribute('data-people');
-            window.location.href = `/kategorie_selection?people=${encodeURIComponent(people)}`;
+            const time = selectedBox.getAttribute('data-time');
+            window.location.href = `/when_selection?time=${encodeURIComponent(time)}`;
         }
     });
 
@@ -37,5 +37,12 @@ document.addEventListener('DOMContentLoaded', function() {
     hamburgerMenu.addEventListener('click', function() {
         hamburgerMenu.classList.toggle('active');
         sidebar.classList.toggle('active');
+    });
+
+    document.addEventListener('click', function(event) {
+        if (!sidebar.contains(event.target) && !hamburgerMenu.contains(event.target)) {
+            sidebar.classList.remove('active');
+            hamburgerMenu.classList.remove('active');
+        }
     });
 });

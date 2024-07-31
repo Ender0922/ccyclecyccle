@@ -110,35 +110,63 @@ h1 {
     text-align: center;
 }
 
-.container {
+.calendar-container {
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin-top: -10px; /* Move up */
+    margin-top: 20px;
     width: 80%;
 }
 
-.selection-box {
+.month-selector {
+    display: flex;
+    justify-content: space-between;
     width: 100%;
-    max-width: 300px;
-    padding: 15px; /* Increase padding */
-    margin: 10px 0;
-    background-color: #fff;
-    border: 1px solid #ddd;
-    border-radius: 15px;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    max-width: 600px;
+    margin-bottom: 10px;
+}
+
+.month-selector button {
+    background-color: #202C59;
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.month-selector span {
+    font-size: 18px;
+    color: #333;
+}
+
+#calendar {
+    width: 100%;
+    max-width: 600px;
+    border-collapse: collapse;
+}
+
+#calendar th, #calendar td {
+    width: 14.28%;
+    height: 50px;
     text-align: center;
-    font-size: 18px; /* Standard font size */
-    transition: background-color 0.3s;
+    border: 1px solid #ddd;
     cursor: pointer;
 }
 
-.selection-box:hover {
+#calendar td:hover {
     background-color: #f0f0f0;
 }
 
-.selection-box.selected {
+#calendar td.selected {
     background-color: #F0A202;
+    color: white;
+}
+
+.selected-date-box {
+    margin-top: 10px;
+    font-size: 18px;
+    color: #333;
 }
 
 .highlight-box {
