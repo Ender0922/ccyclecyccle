@@ -1,0 +1,4034 @@
+[
+    {
+        "Address": "대전 대덕구 계족로664번길 113 1층 (우)34397",
+        "Operation": "화~일 11:30 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/16424517",
+        "Name": "매봉식당",
+        "Rate": "3.7"
+    },
+    {
+        "Address": "대전 대덕구 쌍청당로 14 1층 (우)34410",
+        "Operation": "매일 10:30 ~ 20:30",
+        "Homepage": "https://place.map.kakao.com/17192409",
+        "Name": "조기종의향미각 본점",
+        "Rate": "2.9"
+    },
+    {
+        "Address": "대전 대덕구 대청로 234 (우)34315",
+        "Operation": "매일 10:30 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/1285491913",
+        "Name": "두두당",
+        "Rate": "3.3"
+    },
+    {
+        "Address": "대전 대덕구 신탄진로804번길 31 (우)34310",
+        "Operation": "매일 11:00 ~ 20:00",
+        "Homepage": "https://place.map.kakao.com/9827074",
+        "Name": "부추해물칼국수",
+        "Rate": "3.6"
+    },
+    {
+        "Address": "대전 대덕구 비래골길 47-12 (우)34412",
+        "Operation": "매일 11:00 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/787212968",
+        "Name": "비래키키",
+        "Rate": "3.2"
+    },
+    {
+        "Address": "대전 대덕구 한남로38번길 28 한남빌 1층 (우)34431",
+        "Operation": "매일 12:00 ~ 19:30",
+        "Homepage": "https://place.map.kakao.com/843666963",
+        "Name": "몽심",
+        "Rate": "4.6"
+    },
+    {
+        "Address": "대전 대덕구 대화로 69 1층 (우)34371",
+        "Operation": "화~금 10:30 ~ 21:30",
+        "Homepage": "https://place.map.kakao.com/11186149",
+        "Name": "왕손곱창",
+        "Rate": "4.4"
+    },
+    {
+        "Address": "대전 대덕구 한남로88번길 6 1층 (우)34433",
+        "Operation": "월~토 17:00 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/15690021",
+        "Name": "연탄구이",
+        "Rate": "4.2"
+    },
+    {
+        "Address": "대전 대덕구 동서대로 1752 (우)34419",
+        "Operation": "매일 11:00 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/8537318",
+        "Name": "백마강참숯민물장어 비래점",
+        "Rate": "2.8"
+    },
+    {
+        "Address": "대전 대덕구 중리로76번길 22 1층 (우)34389",
+        "Operation": "월~토 11:30 ~ 22:30",
+        "Homepage": "https://place.map.kakao.com/9603921",
+        "Name": "자연산형제횟집",
+        "Rate": "110.0"
+    },
+    {
+        "Address": "대전 대덕구 송촌북로4번길 49 1층 101호 (우)34409",
+        "Operation": "매일 11:00 ~ 23:00",
+        "Homepage": "https://place.map.kakao.com/492755915",
+        "Name": "소도둑 대전송촌점",
+        "Rate": "4.6"
+    },
+    {
+        "Address": "대전 대덕구 신탄진동로24번길 24 1층 (우)34312",
+        "Operation": "매일 11:30 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/10075204",
+        "Name": "장승마을",
+        "Rate": "4.2"
+    },
+    {
+        "Address": "대전 대덕구 송촌북로5번길 10-11 1층 (우)34410",
+        "Operation": "매일 11:00 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/14935743",
+        "Name": "장수촌 송촌중리점",
+        "Rate": "4.2"
+    },
+    {
+        "Address": "대전 대덕구 신탄진로36번길 111 (우)34353",
+        "Operation": "매일 10:00 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/8184749",
+        "Name": "꽁뚜식당",
+        "Rate": "3.3"
+    },
+    {
+        "Address": "대전 대덕구 계족로 550 (우)34422",
+        "Operation": "매일 11:00 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/8847269",
+        "Name": "또랑",
+        "Rate": "2.5"
+    },
+    {
+        "Address": "대전 대덕구 송촌북로36번길 24 2층 (우)34408",
+        "Operation": "화~일 10:30 ~ 21:30",
+        "Homepage": "https://place.map.kakao.com/27589279",
+        "Name": "코다리밥상 송촌점",
+        "Rate": "3.5"
+    },
+    {
+        "Address": "대전 대덕구 한남로137번길 43 (우)34445",
+        "Operation": "화~일 11:00 ~ 20:00",
+        "Homepage": "https://place.map.kakao.com/1293523836",
+        "Name": "필짬뽕",
+        "Rate": "4.6"
+    },
+    {
+        "Address": "대전 대덕구 신탄진로738번길 1 (우)34336",
+        "Operation": "월~토 17:30 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/16797796",
+        "Name": "대덕식당",
+        "Rate": "5.0"
+    },
+    {
+        "Address": "대전 대덕구 대전로 1009 1층 (우)34445",
+        "Operation": "월,수,목,금,토,일 11:00 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/8278157",
+        "Name": "구들마루 오정점",
+        "Rate": "3.2"
+    },
+    {
+        "Address": "대전 대덕구 신탄진로115번길 17 (우)34351",
+        "Operation": "매일 11:30 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/576805570",
+        "Name": "계족산풍천가",
+        "Rate": "5.0"
+    },
+    {
+        "Address": "대전 대덕구 신탄진동로23번길 46 (우)34310",
+        "Operation": "월~토 11:00 ~ 20:00",
+        "Homepage": "https://place.map.kakao.com/9313876",
+        "Name": "영화반점",
+        "Rate": "3.5"
+    },
+    {
+        "Address": "대전 대덕구 비래서로 25 1층 (우)34417",
+        "Operation": "수~일 11:30 ~ 19:30",
+        "Homepage": "https://place.map.kakao.com/26920811",
+        "Name": "왕짬뽕순두부 1호점",
+        "Rate": "3.8"
+    },
+    {
+        "Address": "대전 대덕구 동춘당로15번길 90 (우)34421",
+        "Operation": "매일 08:00 ~ 20:00",
+        "Homepage": "https://place.map.kakao.com/1161507735",
+        "Name": "금강옥천올갱이",
+        "Rate": "2.9"
+    },
+    {
+        "Address": "대전 대덕구 장동로 223-10 (우)34345",
+        "Operation": "매일 11:00 ~ 19:00",
+        "Homepage": "https://place.map.kakao.com/13568396",
+        "Name": "계족산산골보리밥",
+        "Rate": "4.8"
+    },
+    {
+        "Address": "대전 대덕구 송촌북로4번길 35-5 (우)34409",
+        "Operation": "매일 16:00 ~ 01:00",
+        "Homepage": "https://place.map.kakao.com/11289001",
+        "Name": "송촌주먹구이식당 송촌점",
+        "Rate": "4.5"
+    },
+    {
+        "Address": "대전 대덕구 산업단지로87번길 13 1층 (우)34328",
+        "Operation": "월~금 07:30 ~ 20:00",
+        "Homepage": "https://place.map.kakao.com/967498945",
+        "Name": "가마솥해장국국밥",
+        "Rate": "4.9"
+    },
+    {
+        "Address": "대전 대덕구 비래동로16번길 13 1층 (우)34418",
+        "Operation": "둘째,넷째 월요일",
+        "Homepage": "https://place.map.kakao.com/25987830",
+        "Name": "나래원",
+        "Rate": "4.4"
+    },
+    {
+        "Address": "대전 대덕구 동춘당로44번길 19 (우)34404",
+        "Operation": "매일 10:00 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/26345382",
+        "Name": "장수촌 송촌점",
+        "Rate": "4.8"
+    },
+    {
+        "Address": "대전 대덕구 중리로 14 1층 (우)34395",
+        "Operation": "매일 16:00 ~ 22:30",
+        "Homepage": "https://place.map.kakao.com/8407374",
+        "Name": "일미구이 중리점",
+        "Rate": "3.8"
+    },
+    {
+        "Address": "대전 대덕구 신탄진동로 13 1층 (우)34311",
+        "Operation": "매일 10:00 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/49649726",
+        "Name": "임단아갈비탕&찜 본점",
+        "Rate": "3.5"
+    },
+    {
+        "Address": "대전 대덕구 중리남로28번길 1 (우)34390",
+        "Operation": "월~토 11:30 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/12470643",
+        "Name": "양평칼국수콩국수 본점",
+        "Rate": "3.9"
+    },
+    {
+        "Address": "대전 대덕구 대청로424번길 554 (우)34316",
+        "Operation": "매일 09:30 ~ 20:30",
+        "Homepage": "https://place.map.kakao.com/1801528555",
+        "Name": "카페아마떼 대청호점",
+        "Rate": "3.8"
+    },
+    {
+        "Address": "대전 대덕구 한밭대로 1147 (우)34395",
+        "Operation": "매일 06:00 ~ 24:00",
+        "Homepage": "https://place.map.kakao.com/11201568",
+        "Name": "혜성옥",
+        "Rate": "3.2"
+    },
+    {
+        "Address": "대전 대덕구 한남로12번길 21 1층 (우)34431",
+        "Operation": "매일 11:00 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/1751285346",
+        "Name": "시멘트",
+        "Rate": "4.6"
+    },
+    {
+        "Address": "대전 대덕구 신탄진로 61 1층 (우)34352",
+        "Operation": "매일 11:00 ~ 15:00",
+        "Homepage": "https://place.map.kakao.com/10030513",
+        "Name": "황해식당",
+        "Rate": "3.4"
+    },
+    {
+        "Address": "대전 대덕구 선비마을로 9 (우)34404",
+        "Operation": "매일 11:30 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/19583961",
+        "Name": "강길도낙지마을",
+        "Rate": "4.0"
+    },
+    {
+        "Address": "대전 대덕구 계족산로81번길 87 (우)34407",
+        "Operation": "매일 11:00 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/8542580",
+        "Name": "월산본가 송촌점",
+        "Rate": "3.8"
+    },
+    {
+        "Address": "대전 대덕구 한남로17번길 16-5 1층 (우)34431",
+        "Operation": "매일 12:00 ~ 24:00",
+        "Homepage": "https://place.map.kakao.com/1981627814",
+        "Name": "신세카이",
+        "Rate": "2.8"
+    },
+    {
+        "Address": "대전 대덕구 대덕대로1454번길 13 1층 (우)34323",
+        "Operation": "매일 06:00 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/10772323",
+        "Name": "찌글이짜글이 본점",
+        "Rate": "3.3"
+    },
+    {
+        "Address": "대전 대덕구 한밭대로1159번길 11 1층 (우)34395",
+        "Operation": "월~토 08:30 ~ 20:00",
+        "Homepage": "https://place.map.kakao.com/11183102",
+        "Name": "은혜식당",
+        "Rate": "3.8"
+    },
+    {
+        "Address": "대전 대덕구 한남로 61 한남캠퍼스타운 2층 (우)34432",
+        "Operation": "매일 10:30 ~ 20:30",
+        "Homepage": "https://place.map.kakao.com/9538374",
+        "Name": "킴스돈까스전문점",
+        "Rate": "4.4"
+    },
+    {
+        "Address": "대전 대덕구 송촌북로20번길 21-9 1층 (우)34408",
+        "Operation": "매일 18:00 ~ 24:00",
+        "Homepage": "https://place.map.kakao.com/1485083708",
+        "Name": "한사라",
+        "Rate": "4.8"
+    },
+    {
+        "Address": "대전 대덕구 송촌북로 42 (우)34407",
+        "Operation": "매일 11:30 ~ 22:30",
+        "Homepage": "https://place.map.kakao.com/1574893247",
+        "Name": "진원소우 대전송촌점",
+        "Rate": "4.6"
+    },
+    {
+        "Address": "대전 대덕구 덕암로265번길 45 (우)34330",
+        "Operation": "일요일",
+        "Homepage": "https://place.map.kakao.com/10851100",
+        "Name": "청담골",
+        "Rate": "4.8"
+    },
+    {
+        "Address": "대전 대덕구 계족로564번길 34 (우)34411",
+        "Operation": "화~일 11:00 ~ 15:00",
+        "Homepage": "https://place.map.kakao.com/10651382",
+        "Name": "여리향",
+        "Rate": "3.7"
+    },
+    {
+        "Address": "대전 대덕구 한밭대로 1093 1층 (우)34393",
+        "Operation": "월~토 11:00 ~ 20:30",
+        "Homepage": "https://place.map.kakao.com/286405097",
+        "Name": "하늘돈까스백반 중리점",
+        "Rate": "4.0"
+    },
+    {
+        "Address": "대전 대덕구 중리남로 22 1층 (우)34390",
+        "Operation": "월~토 11:00 ~ 03:00",
+        "Homepage": "https://place.map.kakao.com/12556081",
+        "Name": "검상골",
+        "Rate": "3.5"
+    },
+    {
+        "Address": "대전 대덕구 아리랑로 141 (우)34359",
+        "Operation": "월~금 11:00 ~ 21:30",
+        "Homepage": "https://place.map.kakao.com/8493783",
+        "Name": "이가촌",
+        "Rate": "3.4"
+    },
+    {
+        "Address": "대전 대덕구 장동로 75 1층 (우)34346",
+        "Operation": "매일 12:00 ~ 22:30",
+        "Homepage": "https://place.map.kakao.com/487943693",
+        "Name": "한마음정육식당 대전와동점",
+        "Rate": "5.0"
+    },
+    {
+        "Address": "대전 대덕구 신탄진동로23번길 31 (우)34311",
+        "Operation": "알수없음",
+        "Homepage": "https://place.map.kakao.com/10824564",
+        "Name": "콩마을",
+        "Rate": "4.1"
+    },
+    {
+        "Address": "대전 대덕구 대청로 572 1층 (우)34316",
+        "Operation": "매일 11:00 ~ 20:00",
+        "Homepage": "https://place.map.kakao.com/1702386597",
+        "Name": "공주쌍신집칼국수 대청호점",
+        "Rate": "139.0"
+    },
+    {
+        "Address": "대전 대덕구 석봉로3번길 41 (우)34317",
+        "Operation": "월~토 11:00 ~ 19:00",
+        "Homepage": "https://place.map.kakao.com/10347841",
+        "Name": "망골고개식당",
+        "Rate": "4.5"
+    },
+    {
+        "Address": "대전 대덕구 대청로 556 (우)34316",
+        "Operation": "일요일",
+        "Homepage": "https://place.map.kakao.com/9389328",
+        "Name": "전원가든",
+        "Rate": "4.5"
+    },
+    {
+        "Address": "대전 대덕구 송촌북로19번길 22 (우)34410",
+        "Operation": "매일 11:50 ~ 21:50",
+        "Homepage": "https://place.map.kakao.com/8026339",
+        "Name": "우시장 한우전문정육식당",
+        "Rate": "3.8"
+    },
+    {
+        "Address": "대전 대덕구 송촌북로4번길 47-17 1층 (우)34409",
+        "Operation": "월~토 16:30 ~ 23:00",
+        "Homepage": "https://place.map.kakao.com/1892032939",
+        "Name": "갈랩",
+        "Rate": "4.2"
+    },
+    {
+        "Address": "대전 대덕구 송촌북로16번길 25 (우)34408",
+        "Operation": "매일 12:00 ~ 24:00",
+        "Homepage": "https://place.map.kakao.com/24624183",
+        "Name": "항아리보쌈 송촌점",
+        "Rate": "3.8"
+    },
+    {
+        "Address": "대전 대덕구 대청로570번길 77 (우)34316",
+        "Operation": "둘째,넷째 월요일",
+        "Homepage": "https://place.map.kakao.com/11827296",
+        "Name": "안골식당",
+        "Rate": "4.4"
+    },
+    {
+        "Address": "대전 대덕구 송촌북로4번길 47-10 (우)34409",
+        "Operation": "매일 11:30 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/26642197",
+        "Name": "뚝배기에담은이탈리아",
+        "Rate": "3.3"
+    },
+    {
+        "Address": "대전 대덕구 중리동로 17 (우)34395",
+        "Operation": "화~일 12:00 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/14083836",
+        "Name": "어가아구찜",
+        "Rate": "2.8"
+    },
+    {
+        "Address": "대전 대덕구 신탄진로804번길 19 (우)34311",
+        "Operation": "매일 10:00 ~ 23:00",
+        "Homepage": "https://place.map.kakao.com/9905388",
+        "Name": "신탄회센터",
+        "Rate": "5.0"
+    },
+    {
+        "Address": "대전 대덕구 한남로12번길 33-7 (우)34431",
+        "Operation": "월~금 11:00 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/123257427",
+        "Name": "제비식당",
+        "Rate": "3.4"
+    },
+    {
+        "Address": "대전 대덕구 한남로149번길 1 (우)34443",
+        "Operation": "매일 11:00 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/21339303",
+        "Name": "황해면옥",
+        "Rate": "4.0"
+    },
+    {
+        "Address": "대전 대덕구 대청로424번길 516-16 1층 (우)34316",
+        "Operation": "둘째,넷째 금요일",
+        "Homepage": "https://place.map.kakao.com/10070106",
+        "Name": "은행나무집",
+        "Rate": "4.6"
+    },
+    {
+        "Address": "대전 대덕구 계족산로81번길 11 (우)34409",
+        "Operation": "매일 16:00 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/10970069",
+        "Name": "홍콩삼겹살",
+        "Rate": "4.5"
+    },
+    {
+        "Address": "대전 대덕구 석봉로57번길 12 1층 (우)34318",
+        "Operation": "월~토 17:30 ~ 22:30",
+        "Homepage": "https://place.map.kakao.com/1962291817",
+        "Name": "숯불장터식당",
+        "Rate": "4.9"
+    },
+    {
+        "Address": "대전 대덕구 한밭대로 1144 1층 (우)34427",
+        "Operation": "매일 15:00 ~ 23:00",
+        "Homepage": "https://place.map.kakao.com/21129897",
+        "Name": "더원막창 본점",
+        "Rate": "4.9"
+    },
+    {
+        "Address": "대전 대덕구 비래서로81번길 2 (우)34418",
+        "Operation": "매일 11:00 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/17857670",
+        "Name": "구구전복삼계탕",
+        "Rate": "4.6"
+    },
+    {
+        "Address": "대전 대덕구 신탄진동로7번안길 12 1,2층 (우)34311",
+        "Operation": "월~토 11:00 ~ 21:30",
+        "Homepage": "https://place.map.kakao.com/2045852687",
+        "Name": "춘복여관경양식",
+        "Rate": "4.3"
+    },
+    {
+        "Address": "대전 대덕구 신탄진로804번길 32 (우)34310",
+        "Operation": "매일 00:00 ~ 24:00",
+        "Homepage": "https://place.map.kakao.com/8283905",
+        "Name": "다슬기식당",
+        "Rate": "12.0"
+    },
+    {
+        "Address": "대전 대덕구 덕암북로 37 (우)34320",
+        "Operation": "화~토 11:00 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/1315289338",
+        "Name": "틴타이",
+        "Rate": "4.9"
+    },
+    {
+        "Address": "대전 대덕구 중리서로 80 (우)34388",
+        "Operation": "매일 10:00 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/10940892",
+        "Name": "한우백화점",
+        "Rate": "5.0"
+    },
+    {
+        "Address": "대전 대덕구 중리로 27 1층 (우)34391",
+        "Operation": "매일 15:00 ~ 02:00",
+        "Homepage": "https://place.map.kakao.com/1452360487",
+        "Name": "중리회포차",
+        "Rate": "4.5"
+    },
+    {
+        "Address": "대전 대덕구 송촌남로 21-1 (우)34424",
+        "Operation": "매일 10:30 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/17201570",
+        "Name": "대청마루 옥순네추어칼국수",
+        "Rate": "4.6"
+    },
+    {
+        "Address": "대전 대덕구 대전로 1392 1층 (우)34360",
+        "Operation": "월~토 11:00 ~ 20:00",
+        "Homepage": "https://place.map.kakao.com/1983480642",
+        "Name": "베트남쌀국수",
+        "Rate": "4.9"
+    },
+    {
+        "Address": "대전 대덕구 한남로38번길 28 2층 (우)34431",
+        "Operation": "월~금 11:00 ~ 14:30",
+        "Homepage": "https://place.map.kakao.com/10782573",
+        "Name": "진앤키노",
+        "Rate": "4.3"
+    },
+    {
+        "Address": "대전 대덕구 송촌남로 43 (우)34424",
+        "Operation": "매일 10:30 ~ 22:30",
+        "Homepage": "https://place.map.kakao.com/12510761",
+        "Name": "예산소복갈비",
+        "Rate": "2.9"
+    },
+    {
+        "Address": "대전 대덕구 송촌북로4번길 33 (우)34409",
+        "Operation": "매일 17:00 ~ 01:00",
+        "Homepage": "https://place.map.kakao.com/11559941",
+        "Name": "코스코스조개구이 송촌점",
+        "Rate": "4.0"
+    },
+    {
+        "Address": "대전 대덕구 신탄진동로 26 1층 (우)34313",
+        "Operation": "화~일 11:00 ~ 21:30",
+        "Homepage": "https://place.map.kakao.com/1897939569",
+        "Name": "대청얼큰오징어찌개",
+        "Rate": "4.4"
+    },
+    {
+        "Address": "대전 대덕구 선비마을로5번길 9 방주빌딩 1층 (우)34404",
+        "Operation": "월,수,목,금,토 11:30 ~ 20:00",
+        "Homepage": "https://place.map.kakao.com/8987539",
+        "Name": "미정숯불갈비",
+        "Rate": "3.9"
+    },
+    {
+        "Address": "대전 대덕구 덕암로148번안길 24 1층 (우)34332",
+        "Operation": "월~토 09:00 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/9578198",
+        "Name": "한성손짜장",
+        "Rate": "4.7"
+    },
+    {
+        "Address": "대전 대덕구 덕암로265번길 105 1층 (우)34330",
+        "Operation": "월~토 11:00 ~ 20:30",
+        "Homepage": "https://place.map.kakao.com/71684618",
+        "Name": "양평칼국수 신탄본점",
+        "Rate": "4.4"
+    },
+    {
+        "Address": "대전 대덕구 덕암북로104번길 74 (우)34331",
+        "Operation": "매일 11:00 ~ 21:30",
+        "Homepage": "https://place.map.kakao.com/26951271",
+        "Name": "신탄면옥",
+        "Rate": "3.0"
+    },
+    {
+        "Address": "대전 대덕구 중리서로 73-1 (우)34387",
+        "Operation": "화요일",
+        "Homepage": "https://place.map.kakao.com/976410926",
+        "Name": "하선생생물짬뽕",
+        "Rate": "3.6"
+    },
+    {
+        "Address": "대전 대덕구 아리랑로197번길 7 1층 (우)34356",
+        "Operation": "월~금 10:00 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/1373418449",
+        "Name": "제이오비커피로스터즈",
+        "Rate": "5.0"
+    },
+    {
+        "Address": "대전 대덕구 송촌남로56번길 1 (우)34425",
+        "Operation": "알수없음",
+        "Homepage": "https://place.map.kakao.com/9532013",
+        "Name": "푸짐한활어회 본점",
+        "Rate": "4.0"
+    },
+    {
+        "Address": "대전 대덕구 송촌북로12번길 34 (우)34409",
+        "Operation": "매일 12:00 ~ 01:00",
+        "Homepage": "https://place.map.kakao.com/10623254",
+        "Name": "왕뚜껑삼씨네겹살이 송촌점",
+        "Rate": "4.3"
+    },
+    {
+        "Address": "대전 대덕구 대덕대로1448번길 3 (우)34323",
+        "Operation": "매일 06:00 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/8318234",
+        "Name": "방일해장국 신탄진점",
+        "Rate": "4.8"
+    },
+    {
+        "Address": "대전 대덕구 한밭대로 1048 2층 (우)34437",
+        "Operation": "매일 11:00 ~ 21:30",
+        "Homepage": "https://place.map.kakao.com/18220508",
+        "Name": "샤브쌈주머니 오정점",
+        "Rate": "4.3"
+    },
+    {
+        "Address": "대전 대덕구 장동로 213 (우)34345",
+        "Operation": "매일 11:30 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/18150740",
+        "Name": "계족산황톳길가든",
+        "Rate": "4.3"
+    },
+    {
+        "Address": "대전 대덕구 대청로424번안길 41 (우)34316",
+        "Operation": "매일 10:00 ~ 20:00",
+        "Homepage": "https://place.map.kakao.com/27303265",
+        "Name": "쥐코찻집",
+        "Rate": "3.4"
+    },
+    {
+        "Address": "대전 대덕구 한밭대로1003번길 8 (우)34378",
+        "Operation": "월~금 17:00 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/11652718",
+        "Name": "바다수산",
+        "Rate": "3.8"
+    },
+    {
+        "Address": "대전 대덕구 비래동로15번길 2 B동 1층 (우)34417",
+        "Operation": "매일 12:00 ~ 23:00",
+        "Homepage": "https://place.map.kakao.com/2031631947",
+        "Name": "국가대표 비래점",
+        "Rate": "3.8"
+    },
+    {
+        "Address": "대전 대덕구 한밭대로1006번길 7 (우)34437",
+        "Operation": "월~토 10:00 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/8704977",
+        "Name": "굴세상 오정점",
+        "Rate": "4.6"
+    },
+    {
+        "Address": "대전 대덕구 대전로1370번길 13-14 (우)34360",
+        "Operation": "월~토 09:00 ~ 15:00",
+        "Homepage": "https://place.map.kakao.com/27241453",
+        "Name": "김연수소국밥막국수",
+        "Rate": "4.9"
+    },
+    {
+        "Address": "대전 대덕구 선비마을로 22 (우)34405",
+        "Operation": "월~토 12:00 ~ 24:00",
+        "Homepage": "https://place.map.kakao.com/10893325",
+        "Name": "포대포소곱창구이",
+        "Rate": "3.8"
+    },
+    {
+        "Address": "대전 대덕구 대청로500번길 8 (우)34316",
+        "Operation": "매일 10:30 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/12002487",
+        "Name": "메밀꽃필무렵",
+        "Rate": "3.3"
+    },
+    {
+        "Address": "대전 대덕구 한남로12번길 19-5 (우)34431",
+        "Operation": "매일 11:00 ~ 21:30",
+        "Homepage": "https://place.map.kakao.com/24123420",
+        "Name": "오늘은닭",
+        "Rate": "2.8"
+    },
+    {
+        "Address": "대전 대덕구 선비마을로5번길 3 (우)34404",
+        "Operation": "화~일 11:00 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/9605335",
+        "Name": "홍굴이부추손칼국수",
+        "Rate": "4.5"
+    },
+    {
+        "Address": "대전 대덕구 계족로 728 (우)34396",
+        "Operation": "매일 11:00 ~ 20:30",
+        "Homepage": "https://place.map.kakao.com/12763711",
+        "Name": "큰집추어탕",
+        "Rate": "3.6"
+    },
+    {
+        "Address": "대전 대덕구 계족산로5번길 54 1층 (우)34411",
+        "Operation": "알수없음",
+        "Homepage": "https://place.map.kakao.com/1734271659",
+        "Name": "윤이네집밥",
+        "Rate": "5.0"
+    },
+    {
+        "Address": "대전 대덕구 홍도로 123 1층 (우)34427",
+        "Operation": "화~일 15:00 ~ 01:00",
+        "Homepage": "https://place.map.kakao.com/224010848",
+        "Name": "마약양꼬치 대전7호점",
+        "Rate": "4.8"
+    },
+    {
+        "Address": "대전 대덕구 중리북로 35 (우)34389",
+        "Operation": "화~일 07:00 ~ 23:30",
+        "Homepage": "https://place.map.kakao.com/1933098961",
+        "Name": "등뼈감자탕&등갈비",
+        "Rate": "2.6"
+    },
+    {
+        "Address": "대전 대덕구 신탄진동로24번길 11 1층 (우)34313",
+        "Operation": "월~토 11:30 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/15422500",
+        "Name": "산골짜기",
+        "Rate": "4.0"
+    },
+    {
+        "Address": "대전 대덕구 오정로63번길 1 (우)34441",
+        "Operation": "월~금 11:00 ~ 15:00",
+        "Homepage": "https://place.map.kakao.com/1319969667",
+        "Name": "작은식당 본점",
+        "Rate": "5.0"
+    },
+    {
+        "Address": "대전 대덕구 대덕대로1448번길 117 (우)34323",
+        "Operation": "월~토 11:00 ~ 14:00",
+        "Homepage": "https://place.map.kakao.com/1435182610",
+        "Name": "모들식탁",
+        "Rate": "4.3"
+    },
+    {
+        "Address": "대전 대덕구 대덕대로1470번길 64 1층 (우)34323",
+        "Operation": "화~일 11:00 ~ 20:00",
+        "Homepage": "https://place.map.kakao.com/1746673910",
+        "Name": "영빈관",
+        "Rate": "3.9"
+    },
+    {
+        "Address": "대전 대덕구 대청호수로 1553 (우)34316",
+        "Operation": "월요일",
+        "Homepage": "https://place.map.kakao.com/8725328",
+        "Name": "갈밭식당",
+        "Rate": "3.0"
+    },
+    {
+        "Address": "대전 대덕구 석봉로37번길 51-7 1층 (우)34318",
+        "Operation": "월~토 10:30 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/1322368250",
+        "Name": "신탄수구레국밥",
+        "Rate": "4.5"
+    },
+    {
+        "Address": "대전 대덕구 송촌로 8 1층 (우)34421",
+        "Operation": "매일 10:00 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/1210079192",
+        "Name": "옥천순대",
+        "Rate": "3.3"
+    },
+    {
+        "Address": "대전 대덕구 덕암북로48번길 9 1층 (우)34330",
+        "Operation": "월,화,수,목,금,일 11:00 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/11599554",
+        "Name": "원조설악추어탕삼계탕 덕암점",
+        "Rate": "4.2"
+    },
+    {
+        "Address": "대전 대덕구 신탄진동로23번길 51 1층 (우)34311",
+        "Operation": "알수없음",
+        "Homepage": "https://place.map.kakao.com/9944339",
+        "Name": "이조갈비 신탄진점",
+        "Rate": "4.8"
+    },
+    {
+        "Address": "대전 대덕구 대덕대로1593번길 55 1층 (우)34305",
+        "Operation": "매일 11:30 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/972355293",
+        "Name": "석봉항아리보쌈",
+        "Rate": "1.7"
+    },
+    {
+        "Address": "대전 대덕구 석봉로58번안길 99 (우)34320",
+        "Operation": "매일 12:00 ~ 24:00",
+        "Homepage": "https://place.map.kakao.com/830674435",
+        "Name": "만인회센터",
+        "Rate": "2.3"
+    },
+    {
+        "Address": "대전 대덕구 한남로38번길 14 1층 (우)34431",
+        "Operation": "매일 10:00 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/10360969",
+        "Name": "마미하우스",
+        "Rate": "3.6"
+    },
+    {
+        "Address": "대전 대덕구 덕암로233번길 12 (우)34330",
+        "Operation": "매일 17:00 ~ 23:00",
+        "Homepage": "https://place.map.kakao.com/1858452763",
+        "Name": "쇠오름",
+        "Rate": "4.9"
+    },
+    {
+        "Address": "대전 대덕구 비래골길 47-20 1층 (우)34412",
+        "Operation": "화~일 11:30 ~ 23:00",
+        "Homepage": "https://place.map.kakao.com/1900373444",
+        "Name": "힐링이돼지",
+        "Rate": "5.0"
+    },
+    {
+        "Address": "대전 대덕구 대청로 516 (우)34316",
+        "Operation": "매일 10:00 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/26319488",
+        "Name": "대왕산삼백숙농원",
+        "Rate": "5.0"
+    },
+    {
+        "Address": "대전 대덕구 계족산로81번길 54 2층 202호 (우)34408",
+        "Operation": "매일 11:30 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/885925108",
+        "Name": "도쿄노쿄엔",
+        "Rate": "3.8"
+    },
+    {
+        "Address": "대전 대덕구 덕암로 259 (우)34330",
+        "Operation": "매일 09:30 ~ 21:30",
+        "Homepage": "https://place.map.kakao.com/12825917",
+        "Name": "굴세상굴국밥전문점 덕암점",
+        "Rate": "4.3"
+    },
+    {
+        "Address": "대전 대덕구 신탄진동로7번길 7 1층 (우)34311",
+        "Operation": "알수없음",
+        "Homepage": "https://place.map.kakao.com/24214326",
+        "Name": "사랑도회센타",
+        "Rate": "5.0"
+    },
+    {
+        "Address": "대전 대덕구 신탄진로 660 1, 2층 (우)34332",
+        "Operation": "매일 10:00 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/1933058003",
+        "Name": "한마음정육식당 신탄진점",
+        "Rate": "5.0"
+    },
+    {
+        "Address": "대전 대덕구 대덕대로1448번길 107 1층 (우)34323",
+        "Operation": "월~토 10:30 ~ 14:00",
+        "Homepage": "https://place.map.kakao.com/1367550547",
+        "Name": "손푸드",
+        "Rate": "5.0"
+    },
+    {
+        "Address": "대전 대덕구 계족산로81번길 11 1층 (우)34409",
+        "Operation": "월~토 12:00 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/12124387",
+        "Name": "풍천장어",
+        "Rate": "2.7"
+    },
+    {
+        "Address": "대전 대덕구 신탄진동로 16-2 1층 (우)34312",
+        "Operation": "월,화,수,금,토,일 11:00 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/606545123",
+        "Name": "우림칼국수 신탄진점",
+        "Rate": "4.5"
+    },
+    {
+        "Address": "대전 대덕구 계족산로 15 1층 (우)34411",
+        "Operation": "수요일",
+        "Homepage": "https://place.map.kakao.com/922360768",
+        "Name": "대전생선구이",
+        "Rate": "4.6"
+    },
+    {
+        "Address": "대전 대덕구 대청로 9 1층 (우)34306",
+        "Operation": "매일 11:00 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/899554300",
+        "Name": "11시들쌈밥 신탄진 본점",
+        "Rate": "3.5"
+    },
+    {
+        "Address": "대전 대덕구 계족산로81번길 11 (우)34409",
+        "Operation": "매일 10:30 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/20071567",
+        "Name": "리엔춘",
+        "Rate": "2.4"
+    },
+    {
+        "Address": "대전 대덕구 비래서로 33 (우)34417",
+        "Operation": "월~토 11:00 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/8955806",
+        "Name": "두부명가",
+        "Rate": "4.5"
+    },
+    {
+        "Address": "대전 대덕구 계족산로81번길 4 1층 (우)34409",
+        "Operation": "화~일 11:30 ~ 21:30",
+        "Homepage": "https://place.map.kakao.com/579464364",
+        "Name": "황제명태본가",
+        "Rate": "3.7"
+    },
+    {
+        "Address": "대전 대덕구 계족산로81번길 59-7 (우)34408",
+        "Operation": "매일 12:00 ~ 01:00",
+        "Homepage": "https://place.map.kakao.com/26560143",
+        "Name": "단지막창 대전송촌점",
+        "Rate": "4.6"
+    },
+    {
+        "Address": "대전 대덕구 한밭대로 1141 (우)34394",
+        "Operation": "매일 00:00 ~ 24:00",
+        "Homepage": "https://place.map.kakao.com/19126376",
+        "Name": "삼순이시골감자탕 중리점",
+        "Rate": "4.8"
+    },
+    {
+        "Address": "대전 대덕구 동춘당로44번길 12 1층 (우)34404",
+        "Operation": "매일 11:00 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/19012751",
+        "Name": "콩마니손두부",
+        "Rate": "3.9"
+    },
+    {
+        "Address": "대전 대덕구 비래동로16번길 47 (우)34418",
+        "Operation": "매일 11:00 ~ 21:30",
+        "Homepage": "https://place.map.kakao.com/9143210",
+        "Name": "선비숯불갈비",
+        "Rate": "3.7"
+    },
+    {
+        "Address": "대전 대덕구 덕암북로 85 (우)34319",
+        "Operation": "매일 11:00 ~ 24:00",
+        "Homepage": "https://place.map.kakao.com/9731327",
+        "Name": "다해활어시장",
+        "Rate": "3.0"
+    },
+    {
+        "Address": "대전 대덕구 한남로 65 3층 (우)34432",
+        "Operation": "월~금 09:30 ~ 20:00",
+        "Homepage": "https://place.map.kakao.com/10869235",
+        "Name": "하늘정원",
+        "Rate": "4.3"
+    },
+    {
+        "Address": "대전 대덕구 비래골길 47-16 (우)34412",
+        "Operation": "매일 11:00 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/2056122140",
+        "Name": "카오삐약",
+        "Rate": "3.9"
+    },
+    {
+        "Address": "대전 대덕구 석봉로7번길 56 1층 (우)34317",
+        "Operation": "화~일 12:00 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/1458421445",
+        "Name": "언타이어노트",
+        "Rate": "4.2"
+    },
+    {
+        "Address": "대전 대덕구 비래동로7번길 63 (우)34417",
+        "Operation": "월~토 10:30 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/21856174",
+        "Name": "해물짬뽕전문점",
+        "Rate": "3.5"
+    },
+    {
+        "Address": "대전 대덕구 신탄진로 846 (우)34306",
+        "Operation": "매일 13:00 ~ 23:00",
+        "Homepage": "https://place.map.kakao.com/26822469",
+        "Name": "천상대게 신탄진점",
+        "Rate": "5.0"
+    },
+    {
+        "Address": "대전 대덕구 석봉로37번길 60-7 1층 (우)34318",
+        "Operation": "매일 09:00 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/10375236",
+        "Name": "보성식당",
+        "Rate": "3.3"
+    },
+    {
+        "Address": "대전 대덕구 한남로38번길 3 1층 (우)34431",
+        "Operation": "알수없음",
+        "Homepage": "https://place.map.kakao.com/26822211",
+        "Name": "대동손칼국수",
+        "Rate": "3.7"
+    },
+    {
+        "Address": "대전 대덕구 계족산로81번길 9 1,2동 1층 (우)34409",
+        "Operation": "알수없음",
+        "Homepage": "https://place.map.kakao.com/463127846",
+        "Name": "왕십리고깃집",
+        "Rate": "1.0"
+    },
+    {
+        "Address": "대전 대덕구 한남로 61 (우)34432",
+        "Operation": "매일 11:00 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/1482421525",
+        "Name": "야미마라탕 대전점",
+        "Rate": "4.4"
+    },
+    {
+        "Address": "대전 대덕구 송촌북로4번길 41-11 (우)34409",
+        "Operation": "월~토 17:00 ~ 23:00",
+        "Homepage": "https://place.map.kakao.com/26855298",
+        "Name": "한박사대패삼겹살",
+        "Rate": "5.0"
+    },
+    {
+        "Address": "대전 대덕구 덕암북로58번길 7 (우)34330",
+        "Operation": "월,화,수,금,토,일 11:00 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/9171050",
+        "Name": "설악칡냉면 본점",
+        "Rate": "4.3"
+    },
+    {
+        "Address": "대전 대덕구 송촌북로20번길 27-19 1층 (우)34408",
+        "Operation": "매일 11:30 ~ 23:00",
+        "Homepage": "https://place.map.kakao.com/1485510587",
+        "Name": "5.5닭갈비 송촌점",
+        "Rate": "4.5"
+    },
+    {
+        "Address": "대전 대덕구 송촌북로5번길 24-5 (우)34410",
+        "Operation": "화~일 11:00 ~ 15:00",
+        "Homepage": "https://place.map.kakao.com/8454027",
+        "Name": "오성칼국수",
+        "Rate": "4.4"
+    },
+    {
+        "Address": "대전 대덕구 대덕대로1454번길 11-12 1층 (우)34323",
+        "Operation": "월~토 06:00 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/17686894",
+        "Name": "청원골 묵은지김치찌개",
+        "Rate": "4.8"
+    },
+    {
+        "Address": "대전 대덕구 중리로 12 1층 (우)34395",
+        "Operation": "매일 11:30 ~ 23:30",
+        "Homepage": "https://place.map.kakao.com/591176858",
+        "Name": "준이네닭도리탕",
+        "Rate": "4.8"
+    },
+    {
+        "Address": "대전 대덕구 신탄진로 490 나동 1층 (우)34335",
+        "Operation": "매일 09:00 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/657441144",
+        "Name": "제주은희네해장국 대전신탄진점",
+        "Rate": "4.4"
+    },
+    {
+        "Address": "대전 대덕구 송촌북로12번길 42 (우)34409",
+        "Operation": "화~일 11:30 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/26088435",
+        "Name": "한영식당 송촌점",
+        "Rate": "5.0"
+    },
+    {
+        "Address": "대전 대덕구 송촌북로12번길 28 (우)34409",
+        "Operation": "월~토 17:00 ~ 02:00",
+        "Homepage": "https://place.map.kakao.com/1866621266",
+        "Name": "원조황소집 송촌점",
+        "Rate": "0.0"
+    },
+    {
+        "Address": "대전 대덕구 계족산로81번길 96 (우)34407",
+        "Operation": "매일 07:30 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/27503927",
+        "Name": "보보로베이커리",
+        "Rate": "4.4"
+    },
+    {
+        "Address": "대전 대덕구 동춘당로 83 (우)34409",
+        "Operation": "매일 11:30 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/10563901",
+        "Name": "현숙소라우렁쌈밥 송촌점",
+        "Rate": "3.6"
+    },
+    {
+        "Address": "대전 대덕구 계족로664번길 103 (우)34397",
+        "Operation": "월~토 11:00 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/19387896",
+        "Name": "장모네",
+        "Rate": "4.8"
+    },
+    {
+        "Address": "대전 대덕구 계족산로81번길 102 (우)34407",
+        "Operation": "매일 12:00 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/431134971",
+        "Name": "화로상회",
+        "Rate": "4.6"
+    },
+    {
+        "Address": "대전 대덕구 송촌로 19 1층 (우)34424",
+        "Operation": "월,수,목,금,토,일 11:00 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/183472802",
+        "Name": "화왕산민물장어",
+        "Rate": "5.0"
+    },
+    {
+        "Address": "대전 대덕구 대덕대로1454번길 35 1층 (우)34323",
+        "Operation": "알수없음",
+        "Homepage": "https://place.map.kakao.com/26471318",
+        "Name": "킴스부대찌개 신탄진점",
+        "Rate": "3.5"
+    },
+    {
+        "Address": "대전 대덕구 동춘당로 79 1층 101호 (우)34409",
+        "Operation": "매일 11:00 ~ 23:00",
+        "Homepage": "https://place.map.kakao.com/1202188922",
+        "Name": "조선화로집 대전송촌점",
+        "Rate": "3.0"
+    },
+    {
+        "Address": "대전 대덕구 신탄진북로32번길 8-21 (우)34308",
+        "Operation": "매일 10:30 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/10493572",
+        "Name": "설악칡냉면",
+        "Rate": "4.0"
+    },
+    {
+        "Address": "대전 대덕구 송촌북로20번길 6 1층 (우)34408",
+        "Operation": "월~토 11:30 ~ 21:30",
+        "Homepage": "https://place.map.kakao.com/432474803",
+        "Name": "아구야",
+        "Rate": "3.6"
+    },
+    {
+        "Address": "대전 대덕구 송촌북로 1 1층 (우)34410",
+        "Operation": "매일 10:00 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/830081998",
+        "Name": "송촌족발",
+        "Rate": "4.0"
+    },
+    {
+        "Address": "대전 대덕구 신탄진동로23번길 7 (우)34311",
+        "Operation": "월~토 17:00 ~ 24:00",
+        "Homepage": "https://place.map.kakao.com/57245250",
+        "Name": "대포조개전골",
+        "Rate": "3.3"
+    },
+    {
+        "Address": "대전 대덕구 대전로1019번길 11 1층 (우)34445",
+        "Operation": "월~토 11:30 ~ 23:00",
+        "Homepage": "https://place.map.kakao.com/27270385",
+        "Name": "대청뜰",
+        "Rate": "5.0"
+    },
+    {
+        "Address": "대전 대덕구 계족산로5번길 111 1층 (우)34406",
+        "Operation": "월~금 11:00 ~ 20:00",
+        "Homepage": "https://place.map.kakao.com/1093279778",
+        "Name": "잔디한식뷔페",
+        "Rate": "5.0"
+    },
+    {
+        "Address": "대전 대덕구 송촌남로37번길 1 (우)34424",
+        "Operation": "일요일",
+        "Homepage": "https://place.map.kakao.com/21879663",
+        "Name": "남도밥상",
+        "Rate": "5.0"
+    },
+    {
+        "Address": "대전 대덕구 한밭대로 1151 (우)34395",
+        "Operation": "매일 00:00 ~ 24:00",
+        "Homepage": "https://place.map.kakao.com/9896644",
+        "Name": "온고을 중리점",
+        "Rate": "2.9"
+    },
+    {
+        "Address": "대전 대덕구 한남로12번길 11 2층 (우)34431",
+        "Operation": "매일 11:00 ~ 24:00",
+        "Homepage": "https://place.map.kakao.com/1292245001",
+        "Name": "공주북경탕수육 한남대점",
+        "Rate": "3.5"
+    },
+    {
+        "Address": "대전 대덕구 중리동로17번길 58 1층 (우)34395",
+        "Operation": "알수없음",
+        "Homepage": "https://place.map.kakao.com/1432990451",
+        "Name": "황금식당",
+        "Rate": "5.0"
+    },
+    {
+        "Address": "대전 대덕구 중리동로17번길 6 (우)34395",
+        "Operation": "매일 11:30 ~ 23:00",
+        "Homepage": "https://place.map.kakao.com/21578037",
+        "Name": "형이랑아우랑",
+        "Rate": "5.0"
+    },
+    {
+        "Address": "대전 대덕구 대덕대로1627번길 13 1층 (우)34306",
+        "Operation": "매일 11:00 ~ 20:00",
+        "Homepage": "https://place.map.kakao.com/968668393",
+        "Name": "진주냉면 이가원",
+        "Rate": "3.9"
+    },
+    {
+        "Address": "대전 대덕구 한밭대로988번길 51 (우)34438",
+        "Operation": "알수없음",
+        "Homepage": "https://place.map.kakao.com/1586569239",
+        "Name": "작은식당 오정3호점",
+        "Rate": "4.3"
+    },
+    {
+        "Address": "대전 대덕구 오정로 38 (우)34434",
+        "Operation": "월~토 08:00 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/670769509",
+        "Name": "엘샤다이커피",
+        "Rate": "5.0"
+    },
+    {
+        "Address": "대전 대덕구 비래동로 20 2층 (우)34418",
+        "Operation": "매일 11:00 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/1441248040",
+        "Name": "샤브쌈주머니 대전비래점",
+        "Rate": "2.5"
+    },
+    {
+        "Address": "대전 대덕구 한남로 136 1층 (우)34442",
+        "Operation": "월~금 10:00 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/455798970",
+        "Name": "이산흑염소 오정점",
+        "Rate": "4.5"
+    },
+    {
+        "Address": "대전 대덕구 덕암로265번길 127 1층 (우)34329",
+        "Operation": "월~금 11:00 ~ 19:30",
+        "Homepage": "https://place.map.kakao.com/10842088",
+        "Name": "최고집잔치국수 신탄진점",
+        "Rate": "4.2"
+    },
+    {
+        "Address": "대전 대덕구 계족산로17번길 87 (우)34406",
+        "Operation": "매일 11:30 ~ 21:30",
+        "Homepage": "https://place.map.kakao.com/25043151",
+        "Name": "전복 오리누룽지백숙삼계탕",
+        "Rate": "0.0"
+    },
+    {
+        "Address": "대전 대덕구 신탄진동로 18 1층 (우)34312",
+        "Operation": "월~금 16:00 ~ 23:00",
+        "Homepage": "https://place.map.kakao.com/599513400",
+        "Name": "통큰갈비 신탄진점",
+        "Rate": "3.8"
+    },
+    {
+        "Address": "대전 대덕구 송촌북로20번길 13 1층 (우)34408",
+        "Operation": "월~토 11:30 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/1997811806",
+        "Name": "어두리 송촌점",
+        "Rate": "4.8"
+    },
+    {
+        "Address": "대전 대덕구 한밭대로1283번길 65 (우)34424",
+        "Operation": "알수없음",
+        "Homepage": "https://place.map.kakao.com/15321446",
+        "Name": "솔밭가든",
+        "Rate": "5.0"
+    },
+    {
+        "Address": "대전 대덕구 신탄진로 367 (우)34357",
+        "Operation": "매일 10:00 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/1642765738",
+        "Name": "와동245",
+        "Rate": "4.0"
+    },
+    {
+        "Address": "대전 대덕구 신탄진동로 25 (우)34310",
+        "Operation": "알수없음",
+        "Homepage": "https://place.map.kakao.com/8509677",
+        "Name": "정가네장수촌",
+        "Rate": "0.0"
+    },
+    {
+        "Address": "대전 대덕구 오정로 118 (우)34438",
+        "Operation": "매일 10:40 ~ 19:00",
+        "Homepage": "https://place.map.kakao.com/1273214499",
+        "Name": "오정한식뷔페",
+        "Rate": "4.5"
+    },
+    {
+        "Address": "대전 대덕구 계족산로17번길 88 (우)34406",
+        "Operation": "알수없음",
+        "Homepage": "https://place.map.kakao.com/392876787",
+        "Name": "산들숲한방오리닭백숙",
+        "Rate": "4.0"
+    },
+    {
+        "Address": "대전 대덕구 한밭대로 1157 1층 (우)34395",
+        "Operation": "매일 07:30 ~ 02:00",
+        "Homepage": "https://place.map.kakao.com/29802322",
+        "Name": "빽다방 대전중리가구거리점",
+        "Rate": "3.8"
+    },
+    {
+        "Address": "대전 대덕구 한남로 137 1층 (우)34443",
+        "Operation": "알수없음",
+        "Homepage": "https://place.map.kakao.com/15768884",
+        "Name": "제일추어탕",
+        "Rate": "4.8"
+    },
+    {
+        "Address": "대전 대덕구 송촌북로20번길 38 1층 (우)34408",
+        "Operation": "매일 12:00 ~ 03:00",
+        "Homepage": "https://place.map.kakao.com/2132622447",
+        "Name": "완미족발 송촌점",
+        "Rate": "0.0"
+    },
+    {
+        "Address": "대전 대덕구 홍도로 135 (우)34427",
+        "Operation": "일요일",
+        "Homepage": "https://place.map.kakao.com/8376858",
+        "Name": "백록담숯불바베큐치킨 중리점",
+        "Rate": "5.0"
+    },
+    {
+        "Address": "대전 대덕구 비래동로7번길 13 (우)34417",
+        "Operation": "월~토 11:00 ~ 19:00",
+        "Homepage": "https://place.map.kakao.com/15784955",
+        "Name": "호박식당",
+        "Rate": "4.7"
+    },
+    {
+        "Address": "대전 대덕구 중리서로 20 (우)34394",
+        "Operation": "화~일 11:30 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/730048607",
+        "Name": "더하믕",
+        "Rate": "5.0"
+    },
+    {
+        "Address": "대전 대덕구 동춘당로 79 1층 (우)34409",
+        "Operation": "매일 00:00 ~ 24:00",
+        "Homepage": "https://place.map.kakao.com/1756248426",
+        "Name": "이순신소국밥 송촌고금도점",
+        "Rate": "3.7"
+    },
+    {
+        "Address": "대전 대덕구 대덕대로 1554 1층 (우)34317",
+        "Operation": "알수없음",
+        "Homepage": "https://place.map.kakao.com/18946432",
+        "Name": "김밥천국 석봉점",
+        "Rate": "2.3"
+    },
+    {
+        "Address": "대전 대덕구 한남로12번길 29 2층 (우)34431",
+        "Operation": "매일 11:00 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/768333980",
+        "Name": "로충칭마라탕 한남대점",
+        "Rate": "4.1"
+    },
+    {
+        "Address": "대전 대덕구 덕암로222번길 34 1층 (우)34331",
+        "Operation": "첫째,셋째 일요일",
+        "Homepage": "https://place.map.kakao.com/19959952",
+        "Name": "아주매운공주칼국수쭈꾸미구이 신탄진점",
+        "Rate": "4.3"
+    },
+    {
+        "Address": "대전 대덕구 송촌북로12번길 30 (우)34409",
+        "Operation": "알수없음",
+        "Homepage": "https://place.map.kakao.com/26849122",
+        "Name": "송촌명가",
+        "Rate": "5.0"
+    },
+    {
+        "Address": "대전 대덕구 중리동로 20 1층 (우)34395",
+        "Operation": "매일 10:00 ~ 24:00",
+        "Homepage": "https://place.map.kakao.com/27247403",
+        "Name": "라드커피레스토랑 3호점",
+        "Rate": "3.8"
+    },
+    {
+        "Address": "대전 대덕구 대청로 264 (우)34315",
+        "Operation": "월~금 11:00 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/8877304",
+        "Name": "나루터장어",
+        "Rate": "1.7"
+    },
+    {
+        "Address": "대전 대덕구 신탄진로 358 1층 (우)34357",
+        "Operation": "매일 11:00 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/670463908",
+        "Name": "예향본가",
+        "Rate": "1.0"
+    },
+    {
+        "Address": "대전 대덕구 신탄진동로 24 (우)34313",
+        "Operation": "월,화,수,목,금,일 00:00 ~ 24:00",
+        "Homepage": "https://place.map.kakao.com/1081245510",
+        "Name": "특벼리각벼리양평해장국",
+        "Rate": "4.0"
+    },
+    {
+        "Address": "대전 유성구 대학로 44 1층 106~110호 (우)34185",
+        "Operation": "매일 11:10 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/2079493043",
+        "Name": "상무초밥 유성점",
+        "Rate": "3.5"
+    },
+    {
+        "Address": "대전 유성구 온천북로 61 (우)34185",
+        "Operation": "월~토 11:00 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/27392262",
+        "Name": "온천손칼국수쭈꾸미",
+        "Rate": "3.7"
+    },
+    {
+        "Address": "대전 유성구 수통골로 69 1,2층 (우)34154",
+        "Operation": "매일 11:20 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/19661134",
+        "Name": "수통골감나무집 본점",
+        "Rate": "3.5"
+    },
+    {
+        "Address": "대전 유성구 문화원로 140 (우)34185",
+        "Operation": "매일 08:30 ~ 01:20",
+        "Homepage": "https://place.map.kakao.com/24324371",
+        "Name": "원조태평소국밥 유성점",
+        "Rate": "3.9"
+    },
+    {
+        "Address": "대전 유성구 신성남로 127 (우)34116",
+        "Operation": "매일 06:30 ~ 21:30",
+        "Homepage": "https://place.map.kakao.com/9437196",
+        "Name": "천리집",
+        "Rate": "4.0"
+    },
+    {
+        "Address": "대전 유성구 노은동로79번길 71 로얄빌딩 1,2, 4층 (우)34091",
+        "Operation": "월~금 11:30 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/14734613",
+        "Name": "청송한우타운",
+        "Rate": "4.6"
+    },
+    {
+        "Address": "대전 유성구 대학로 39-10 엔터팰리스1차 2층 201호 (우)34168",
+        "Operation": "매일 11:00 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/1826571417",
+        "Name": "바르미 샤브샤브n칼국수 봉명점",
+        "Rate": "4.0"
+    },
+    {
+        "Address": "대전 유성구 원계산로 238-34 1층 (우)34215",
+        "Operation": "매일 11:00 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/1319614166",
+        "Name": "복사꽃피는집 대전점",
+        "Rate": "4.0"
+    },
+    {
+        "Address": "대전 유성구 엑스포로 240 (우)34124",
+        "Operation": "매일 11:00 ~ 21:30",
+        "Homepage": "https://place.map.kakao.com/27221731",
+        "Name": "유생촌 대전유성점",
+        "Rate": "3.7"
+    },
+    {
+        "Address": "대전 유성구 온천동로65번길 35 1층 (우)34185",
+        "Operation": "매일 10:30 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/1344962863",
+        "Name": "구들마루",
+        "Rate": "3.6"
+    },
+    {
+        "Address": "대전 유성구 도안대로567번길 3 (우)34179",
+        "Operation": "매일 11:00 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/7893813",
+        "Name": "백마강참숯민물장어 유성점",
+        "Rate": "4.1"
+    },
+    {
+        "Address": "대전 유성구 계룡로59번길 36 (우)34169",
+        "Operation": "매일 00:00 ~ 24:00",
+        "Homepage": "https://place.map.kakao.com/9926848",
+        "Name": "일당감자탕",
+        "Rate": "3.4"
+    },
+    {
+        "Address": "대전 유성구 계룡로141번길 1 (우)34187",
+        "Operation": "매일 11:00 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/8937961",
+        "Name": "띠울석갈비 유성직영점",
+        "Rate": "2.5"
+    },
+    {
+        "Address": "대전 유성구 한밭대로492번길 20 1층 (우)34184",
+        "Operation": "매일 11:00 ~ 21:30",
+        "Homepage": "https://place.map.kakao.com/1244684601",
+        "Name": "대손관 본점",
+        "Rate": "3.6"
+    },
+    {
+        "Address": "대전 유성구 유성대로 645 (우)34174",
+        "Operation": "매일 10:30 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/407720247",
+        "Name": "유성본가누룽지삼계탕",
+        "Rate": "3.6"
+    },
+    {
+        "Address": "대전 유성구 동서대로 181 1층 (우)34159",
+        "Operation": "월,수,목,금,토,일 11:00 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/19272546",
+        "Name": "더함뜰",
+        "Rate": "3.2"
+    },
+    {
+        "Address": "대전 유성구 도안대로 553-1 1층 (우)34180",
+        "Operation": "월,수,목,금,토,일 11:00 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/652949894",
+        "Name": "유람",
+        "Rate": "334"
+    },
+    {
+        "Address": "대전 유성구 문화원로 77 그랑펠리체상가 1층 103호 (우)34184",
+        "Operation": "매일 11:00 ~ 20:30",
+        "Homepage": "https://place.map.kakao.com/27529721",
+        "Name": "잇마이타이 봉명점",
+        "Rate": "4.0"
+    },
+    {
+        "Address": "대전 유성구 노은동로75번길 12 (우)34091",
+        "Operation": "매일 11:30 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/7839198",
+        "Name": "동신수산",
+        "Rate": "2.7"
+    },
+    {
+        "Address": "대전 유성구 봉명로 27-27 3층 (우)34190",
+        "Operation": "매일 11:30 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/18583057",
+        "Name": "케이인하우스 루",
+        "Rate": "3.7"
+    },
+    {
+        "Address": "대전 유성구 온천북로13번길 10 1층 (우)34185",
+        "Operation": "매일 17:00 ~ 02:00",
+        "Homepage": "https://place.map.kakao.com/689117352",
+        "Name": "촌놈들연탄구이 본점",
+        "Rate": "4.3"
+    },
+    {
+        "Address": "대전 유성구 은구비로155번길 34 (우)34097",
+        "Operation": "매일 11:30 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/7857168",
+        "Name": "리엔차이",
+        "Rate": "77"
+    },
+    {
+        "Address": "대전 유성구 대학로 31 유성한진오피스텔 1층 116호 (우)34168",
+        "Operation": "월~토 17:00 ~ 01:00",
+        "Homepage": "https://place.map.kakao.com/8536307",
+        "Name": "철수네매운갈비찜",
+        "Rate": "3.5"
+    },
+    {
+        "Address": "대전 유성구 농대로15번길 7 1층 (우)34138",
+        "Operation": "매일 12:00 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/1130406500",
+        "Name": "카페소신",
+        "Rate": "4.2"
+    },
+    {
+        "Address": "대전 유성구 대학로 56 (우)34185",
+        "Operation": "매일 11:00 ~ 23:00",
+        "Homepage": "https://place.map.kakao.com/26314467",
+        "Name": "크래버대게나라 대전유성점",
+        "Rate": "4.4"
+    },
+    {
+        "Address": "대전 유성구 노은서로76번길 75-5 (우)34092",
+        "Operation": "매일 10:00 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/1069200206",
+        "Name": "권인순갈비김치찌개",
+        "Rate": "3.0"
+    },
+    {
+        "Address": "대전 유성구 노은서로 63-1 1, 2층 (우)34145",
+        "Operation": "화~토 12:00 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/558657538",
+        "Name": "데미재",
+        "Rate": "4.5"
+    },
+    {
+        "Address": "대전 유성구 테크노4로 98-8 101호 (우)34017",
+        "Operation": "매일 11:00 ~ 20:00",
+        "Homepage": "https://place.map.kakao.com/907048988",
+        "Name": "그린베이커리",
+        "Rate": "4.7"
+    },
+    {
+        "Address": "대전 유성구 신성로 69 1층 (우)34107",
+        "Operation": "매일 11:30 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/949594550",
+        "Name": "음식이있는풍경",
+        "Rate": "3.9"
+    },
+    {
+        "Address": "대전 유성구 진잠옛로 291-73 (우)34157",
+        "Operation": "매일 10:00 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/7832369",
+        "Name": "도안동감나무집 유성본정",
+        "Rate": "2.5"
+    },
+    {
+        "Address": "대전 유성구 현충원로 173 (우)34150",
+        "Operation": "매일 11:00 ~ 20:00",
+        "Homepage": "https://place.map.kakao.com/21316926",
+        "Name": "갑동숯골냉면",
+        "Rate": "2.9"
+    },
+    {
+        "Address": "대전 유성구 계룡로113번길 75 (우)34186",
+        "Operation": "월~토 09:30 ~ 21:30",
+        "Homepage": "https://place.map.kakao.com/27287850",
+        "Name": "따봉시래기",
+        "Rate": "4.1"
+    },
+    {
+        "Address": "대전 유성구 갑동로25번길 136 1층 (우)34150",
+        "Operation": "매일 10:00 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/1449361370",
+        "Name": "자작나무",
+        "Rate": "3.8"
+    },
+    {
+        "Address": "대전 유성구 갑동로 12 1층 (우)34150",
+        "Operation": "월~금 11:00 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/26412966",
+        "Name": "갑동숯불민물장어",
+        "Rate": "3.3"
+    },
+    {
+        "Address": "대전 유성구 전민로22번길 30 1층 (우)34052",
+        "Operation": "매일 10:30 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/11211004",
+        "Name": "한우곰탕",
+        "Rate": "4.4"
+    },
+    {
+        "Address": "대전 유성구 현충원로347번길 37-10 1층 (우)34144",
+        "Operation": "매일 11:00 ~ 15:00",
+        "Homepage": "https://place.map.kakao.com/230287327",
+        "Name": "둥지톳밥",
+        "Rate": "4.4"
+    },
+    {
+        "Address": "대전 유성구 문화원로14번길 36 (우)34171",
+        "Operation": "수~일 11:30 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/1797877263",
+        "Name": "도레미아구찜",
+        "Rate": "4.6"
+    },
+    {
+        "Address": "대전 유성구 노은동로 8 (우)34147",
+        "Operation": "매일 09:00 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/1925447794",
+        "Name": "대전신화수산",
+        "Rate": "2.3"
+    },
+    {
+        "Address": "대전 유성구 유성대로736번길 79 (우)34171",
+        "Operation": "매일 11:30 ~ 22:30 (점심특선 11:30~14:00)",
+        "Homepage": "https://place.map.kakao.com/2047572424",
+        "Name": "흑염소가",
+        "Rate": "4.8"
+    },
+    {
+        "Address": "대전 유성구 농대로 15 3층 (우)34138",
+        "Operation": "수~일 11:30 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/17469780",
+        "Name": "누오보나폴리 궁동점",
+        "Rate": "3.9"
+    },
+    {
+        "Address": "대전 유성구 구룡달전로 3-12 (우)34006",
+        "Operation": "월~토 10:00 ~ 20:30",
+        "Homepage": "https://place.map.kakao.com/9452876",
+        "Name": "충남순대",
+        "Rate": "3.9"
+    },
+    {
+        "Address": "대전 유성구 문화원로 53-1 1,2층 (우)34167",
+        "Operation": "화~일 17:00 ~ 01:00",
+        "Homepage": "https://place.map.kakao.com/2128766740",
+        "Name": "대전통닭 본점",
+        "Rate": "4.0"
+    },
+    {
+        "Address": "대전 유성구 유성대로1184번길 11-19 1층 (우)34109",
+        "Operation": "매일 10:30 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/1292919016",
+        "Name": "순남시래기 대전신성점",
+        "Rate": "4.4"
+    },
+    {
+        "Address": "대전 유성구 월드컵대로290번길 1 (우)34198",
+        "Operation": "매일 11:00 ~ 21:30",
+        "Homepage": "https://place.map.kakao.com/23182716",
+        "Name": "올래국수 상대본점",
+        "Rate": "4.1"
+    },
+    {
+        "Address": "대전 유성구 동서대로189번길 13 (우)34159",
+        "Operation": "매일 11:00 ~ 21:40",
+        "Homepage": "https://place.map.kakao.com/11505719",
+        "Name": "도덕봉가든",
+        "Rate": "145"
+    },
+    {
+        "Address": "대전 유성구 한밭대로313번길 10 (우)34135",
+        "Operation": "매일 11:30 ~ 20:40",
+        "Homepage": "https://place.map.kakao.com/11891985",
+        "Name": "바질리코",
+        "Rate": "2.3"
+    },
+    {
+        "Address": "대전 유성구 북유성대로 328 2층 (우)34063",
+        "Operation": "매일 11:00 ~ 21:30",
+        "Homepage": "https://place.map.kakao.com/12575556",
+        "Name": "오모리생바지락손칼국수",
+        "Rate": "3.6"
+    },
+    {
+        "Address": "대전 유성구 한밭대로492번길 7 1,2층 (우)34184",
+        "Operation": "매일 09:00 ~ 01:00",
+        "Homepage": "https://place.map.kakao.com/26784858",
+        "Name": "블레스롤 대전유성본점",
+        "Rate": "2.7"
+    },
+    {
+        "Address": "대전 유성구 문화원로 108 1층 (우)34185",
+        "Operation": "월~토 17:00 ~ 01:00",
+        "Homepage": "https://place.map.kakao.com/946314278",
+        "Name": "미미삼겹",
+        "Rate": "4.3"
+    },
+    {
+        "Address": "대전 유성구 대덕대로 1101 (우)34005",
+        "Operation": "월~금 11:00 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/8694198",
+        "Name": "황토기와집",
+        "Rate": "3.8"
+    },
+    {
+        "Address": "대전 유성구 온천북로 7 레자미멀티홈상가 2층 206호 (우)34185",
+        "Operation": "매일 11:30 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/7920363",
+        "Name": "쁘리모",
+        "Rate": "3.7"
+    },
+    {
+        "Address": "대전 유성구 죽동로279번길 5-28 1층 101호 (우)34127",
+        "Operation": "매일 11:30 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/1168059824",
+        "Name": "안도스시",
+        "Rate": "3.1"
+    },
+    {
+        "Address": "대전 유성구 월드컵대로275번길 49 1층 (우)34182",
+        "Operation": "매일 11:30 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/55677444",
+        "Name": "백송한우 대전유성점",
+        "Rate": "4.7"
+    },
+    {
+        "Address": "대전 유성구 문화원로 93 2층 201,202호 (우)34184",
+        "Operation": "매일 11:30 ~ 22:30",
+        "Homepage": "https://place.map.kakao.com/2140355603",
+        "Name": "진원소우 대전봉명점",
+        "Rate": "4.0"
+    },
+    {
+        "Address": "대전 유성구 죽동로242번길 8-12 1층 (우)34127",
+        "Operation": "월~토 11:00 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/1406103773",
+        "Name": "유성불백",
+        "Rate": "3.7"
+    },
+    {
+        "Address": "대전 유성구 전민로46번길 29 (우)34052",
+        "Operation": "월~토 11:00 ~ 20:00",
+        "Homepage": "https://place.map.kakao.com/627856172",
+        "Name": "고고짬뽕",
+        "Rate": "4.3"
+    },
+    {
+        "Address": "대전 유성구 엑스포로97번길 40 조이마루 2층 (우)34125",
+        "Operation": "매일 11:00 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/1724385295",
+        "Name": "리에또피렌체",
+        "Rate": "3.6"
+    },
+    {
+        "Address": "대전 유성구 테크노중앙로 155 2층 (우)34028",
+        "Operation": "매일 11:00 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/7857302",
+        "Name": "리원",
+        "Rate": "3.3"
+    },
+    {
+        "Address": "대전 유성구 동서대로179번길 38 (우)34159",
+        "Operation": "매일 10:00 ~ 14:00",
+        "Homepage": "https://place.map.kakao.com/771636188",
+        "Name": "황서옥육개장",
+        "Rate": "4.4"
+    },
+    {
+        "Address": "대전 유성구 문화원로 143 (우)34184",
+        "Operation": "매일 10:00 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/24651776",
+        "Name": "임진강장어",
+        "Rate": "3.2"
+    },
+    {
+        "Address": "대전 유성구 유성대로 775 (우)34165",
+        "Operation": "매일 06:00 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/21310823",
+        "Name": "창억떡 대전점",
+        "Rate": "2.9"
+    },
+    {
+        "Address": "대전 유성구 은구비로155번안길 28 (우)34097",
+        "Operation": "화~금 11:30 ~ 20:30",
+        "Homepage": "https://place.map.kakao.com/773874021",
+        "Name": "르몽탁",
+        "Rate": "4.0"
+    },
+    {
+        "Address": "대전 유성구 반석동로34번길 37 (우)34068",
+        "Operation": "월~토 11:00 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/24876407",
+        "Name": "정선산들곤드레밥",
+        "Rate": "3.3"
+    },
+    {
+        "Address": "대전 유성구 온천북로 15 2층 (우)34185",
+        "Operation": "월~토 17:00 ~ 02:30",
+        "Homepage": "https://place.map.kakao.com/1177797143",
+        "Name": "청담이상 대전봉명점",
+        "Rate": "3.7"
+    },
+    {
+        "Address": "대전 유성구 은구비서로 25 1층 (우)34086",
+        "Operation": "화~일 11:00 ~ 15:00",
+        "Homepage": "https://place.map.kakao.com/9884680",
+        "Name": "열매손만두분식",
+        "Rate": "3.9"
+    },
+    {
+        "Address": "대전 유성구 계룡로74번길 15 (우)34179",
+        "Operation": "월,수,목,금,토,일 08:30 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/9894548",
+        "Name": "아리랑옛날순대",
+        "Rate": "4.0"
+    },
+    {
+        "Address": "대전 유성구 문화원로 118 (우)34185",
+        "Operation": "첫째,셋째 월요일",
+        "Homepage": "https://place.map.kakao.com/25677656",
+        "Name": "향미각 유성점",
+        "Rate": "3.6"
+    },
+    {
+        "Address": "대전 유성구 문화원로 77 1층 (우)34184",
+        "Operation": "매일 11:30 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/12311610",
+        "Name": "스바라시라멘 본점",
+        "Rate": "3.3"
+    },
+    {
+        "Address": "대전 유성구 계룡로60번길 3-1 (우)34178",
+        "Operation": "화~일 09:00 ~ 23:00",
+        "Homepage": "https://place.map.kakao.com/10674979",
+        "Name": "유명돌구이",
+        "Rate": "4.0"
+    },
+    {
+        "Address": "대전 유성구 대학로 78 (우)34183",
+        "Operation": "매일 11:30 ~ 21:30",
+        "Homepage": "https://place.map.kakao.com/7999598",
+        "Name": "연래춘대반점",
+        "Rate": "2.4"
+    },
+    {
+        "Address": "대전 유성구 계룡로113번길 73 (우)34186",
+        "Operation": "월~토 17:30 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/16302540",
+        "Name": "황우마을",
+        "Rate": "2.2"
+    },
+    {
+        "Address": "대전 유성구 봉산로36번길 34 (우)34007",
+        "Operation": "월~토 11:00 ~ 19:00",
+        "Homepage": "https://place.map.kakao.com/9416010",
+        "Name": "진남포면옥",
+        "Rate": "4.2"
+    },
+    {
+        "Address": "대전 유성구 관용로63번길 21 (우)34039",
+        "Operation": "화~일 07:30 ~ 15:00",
+        "Homepage": "https://place.map.kakao.com/2134487350",
+        "Name": "63번길",
+        "Rate": "4.6"
+    },
+    {
+        "Address": "대전 유성구 은구비남로33번길 17 (우)34086",
+        "Operation": "월~금 11:00 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/26582156",
+        "Name": "바로그집",
+        "Rate": "3.2"
+    },
+    {
+        "Address": "대전 유성구 지족북로 74 1,2층 (우)34070",
+        "Operation": "매일 11:30 ~ 21:30",
+        "Homepage": "https://place.map.kakao.com/221566713",
+        "Name": "메이웨이차이나",
+        "Rate": "4.3"
+    },
+    {
+        "Address": "대전 유성구 죽동로279번길 89 (우)34127",
+        "Operation": "월,화,수,목,금,일 11:00 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/1308797257",
+        "Name": "오한순손수제비 죽동점",
+        "Rate": "3.7"
+    },
+    {
+        "Address": "대전 유성구 현충원로 289 (우)34151",
+        "Operation": "매일 06:00 ~ 20:00",
+        "Homepage": "https://place.map.kakao.com/24123162",
+        "Name": "방일해장국 유성점",
+        "Rate": "3.5"
+    },
+    {
+        "Address": "대전 유성구 은구비로 145 1층 (우)34097",
+        "Operation": "월~금 11:30 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/18782272",
+        "Name": "피제리아614 죽동점",
+        "Rate": "3.5"
+    },
+    {
+        "Address": "대전 유성구 대학로 60 1층 119,121,122호 (우)34185",
+        "Operation": "매일 11:00 ~ 23:00",
+        "Homepage": "https://place.map.kakao.com/533327865",
+        "Name": "맛찬들왕소금구이 대전봉명점",
+        "Rate": "3.9"
+    },
+    {
+        "Address": "대전 유성구 대학로 48-13 서진빌딩 5층 (우)34185",
+        "Operation": "월~토 11:00 ~ 23:00",
+        "Homepage": "https://place.map.kakao.com/1811374172",
+        "Name": "화도갈비 모란정",
+        "Rate": "3.8"
+    },
+    {
+        "Address": "대전 유성구 대학로155번길 38 1층 (우)34138",
+        "Operation": "매일 11:00 ~ 23:50",
+        "Homepage": "https://place.map.kakao.com/13143734",
+        "Name": "맛존매콤닭불고기 궁동점",
+        "Rate": "3.6"
+    },
+    {
+        "Address": "대전 유성구 지족로349번길 42 (우)34071",
+        "Operation": "화~일 11:00 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/23415173",
+        "Name": "천수맛집",
+        "Rate": "3.9"
+    },
+    {
+        "Address": "대전 유성구 전민로22번길 51 (우)34052",
+        "Operation": "월~토 17:00 ~ 23:00",
+        "Homepage": "https://place.map.kakao.com/13691533",
+        "Name": "광세족발",
+        "Rate": "4.4"
+    },
+    {
+        "Address": "대전 유성구 문화원로 118 1층 (우)34185",
+        "Operation": "매일 17:00 ~ 02:00",
+        "Homepage": "https://place.map.kakao.com/742362757",
+        "Name": "징기스 유성점",
+        "Rate": "4.0"
+    },
+    {
+        "Address": "대전 유성구 원내로 15 1층 (우)34228",
+        "Operation": "매일 09:00 ~ 20:30",
+        "Homepage": "https://place.map.kakao.com/8949637",
+        "Name": "떡볶이와친구들",
+        "Rate": "3.8"
+    },
+    {
+        "Address": "대전 유성구 온천로 60 1층 (우)34187",
+        "Operation": "월~토 10:00 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/25851683",
+        "Name": "어선재",
+        "Rate": "3.5"
+    },
+    {
+        "Address": "대전 유성구 문화원로 51 (우)34167",
+        "Operation": "월~토 16:30 ~ 24:00",
+        "Homepage": "https://place.map.kakao.com/17783434",
+        "Name": "노랑물고기 본점",
+        "Rate": "4.7"
+    },
+    {
+        "Address": "대전 유성구 관들2길 8-19 1층 (우)34018",
+        "Operation": "월~금 15:00 ~ 24:00",
+        "Homepage": "https://place.map.kakao.com/2116235482",
+        "Name": "택이네조개전골 관평점",
+        "Rate": "4.6"
+    },
+    {
+        "Address": "대전 유성구 죽동로297번길 11 1층 (우)34127",
+        "Operation": "매일 11:00 ~ 23:00",
+        "Homepage": "https://place.map.kakao.com/1981238596",
+        "Name": "더몰트하우스",
+        "Rate": "3.9"
+    },
+    {
+        "Address": "대전 유성구 테크노중앙로 54 2층 (우)34018",
+        "Operation": "매일 10:00 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/17257984",
+        "Name": "도안동감나무집 관평점",
+        "Rate": "3.1"
+    },
+    {
+        "Address": "대전 유성구 가정로 310-14 (우)34130",
+        "Operation": "월~토 10:30 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/18515659",
+        "Name": "코너스톤H",
+        "Rate": "3.9"
+    },
+    {
+        "Address": "대전 유성구 엑스포로123번길 33 18층 (우)34125",
+        "Operation": "매일 06:30 ~ 21:30",
+        "Homepage": "https://place.map.kakao.com/27235465",
+        "Name": "푸드가든 씨카페 롯데시티호텔 대전점",
+        "Rate": "3.3"
+    },
+    {
+        "Address": "대전 유성구 동서대로735번길 104 (우)34195",
+        "Operation": "월~토 11:30 ~ 20:00",
+        "Homepage": "https://place.map.kakao.com/1934253567",
+        "Name": "유성즉석떡볶이 본점",
+        "Rate": "4.5"
+    },
+    {
+        "Address": "대전 유성구 유성대로730번길 107 (우)34170",
+        "Operation": "화~일 08:00 ~ 20:30",
+        "Homepage": "https://place.map.kakao.com/1227869768",
+        "Name": "무주어죽",
+        "Rate": "4.8"
+    },
+    {
+        "Address": "대전 유성구 온천서로 26 (우)34168",
+        "Operation": "매일 00:00 ~ 24:00",
+        "Homepage": "https://place.map.kakao.com/9382732",
+        "Name": "장수진곰탕",
+        "Rate": "2.5"
+    },
+    {
+        "Address": "대전 유성구 온천로 26 (우)34168",
+        "Operation": "월~토 17:00 ~ 01:00",
+        "Homepage": "https://place.map.kakao.com/26343759",
+        "Name": "달빛참치 대전유성점",
+        "Rate": "3.9"
+    },
+    {
+        "Address": "대전 유성구 반석로 10 (우)34068",
+        "Operation": "월~토 11:30 ~ 01:00",
+        "Homepage": "https://place.map.kakao.com/19658958",
+        "Name": "완도수산",
+        "Rate": "3.2"
+    },
+    {
+        "Address": "대전 유성구 죽동로279번길 71-9 1층 101호 (우)34127",
+        "Operation": "월~토 11:30 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/1938580331",
+        "Name": "숨",
+        "Rate": "4.5"
+    },
+    {
+        "Address": "대전 유성구 죽동로280번길 32 (우)34127",
+        "Operation": "월~토 11:00 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/1560512149",
+        "Name": "오슬로의 시간",
+        "Rate": "3.2"
+    },
+    {
+        "Address": "대전 유성구 유성대로1184번길 11-27 3층 (우)34109",
+        "Operation": "매일 11:00 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/21437937",
+        "Name": "한우김삿갓",
+        "Rate": "1.9"
+    },
+    {
+        "Address": "대전 유성구 원신흥남로41번길 29 (우)34194",
+        "Operation": "매일 10:30 ~ 21:30",
+        "Homepage": "https://place.map.kakao.com/22872393",
+        "Name": "메이문",
+        "Rate": "3.0"
+    },
+    {
+        "Address": "대전 유성구 월드컵대로275번길 49 (우)34182",
+        "Operation": "매일 11:00 ~ 20:00 (재고소진시, 네이버에 '영업 종료'로 표시)",
+        "Homepage": "https://place.map.kakao.com/9366272",
+        "Name": "정식당",
+        "Rate": "4.6"
+    },
+    {
+        "Address": "대전 유성구 엑스포로539번길 240 (우)34043",
+        "Operation": "매일 11:30 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/1828025385",
+        "Name": "담양떡갈비",
+        "Rate": "3.1"
+    },
+    {
+        "Address": "대전 유성구 계백로408번길 26 지상1층 (우)34204",
+        "Operation": "매일 11:00 ~ 20:00",
+        "Homepage": "https://place.map.kakao.com/11484442",
+        "Name": "가마솥에누룽지",
+        "Rate": "3.6"
+    },
+    {
+        "Address": "대전 유성구 대학로 39-10 앤터팰리스 1층 101, 102호 (우)34168",
+        "Operation": "매일 12:00 ~ 23:00",
+        "Homepage": "https://place.map.kakao.com/1876773505",
+        "Name": "인기명 대전유성점",
+        "Rate": "3.9"
+    },
+    {
+        "Address": "대전 유성구 온천로 59 1층 115호 (우)34186",
+        "Operation": "매일 09:30 ~ 21:30",
+        "Homepage": "https://place.map.kakao.com/841904557",
+        "Name": "형과아우누룽지삼계탕&왕갈비탕 대전체인본점직영점",
+        "Rate": "3.9"
+    },
+    {
+        "Address": "대전 유성구 봉명서로 27-4 1층 (우)34190",
+        "Operation": "매일 11:00 ~ 20:00",
+        "Homepage": "https://place.map.kakao.com/22399691",
+        "Name": "진월당",
+        "Rate": "2.8"
+    },
+    {
+        "Address": "대전 유성구 은구비서로23번길 29 (우)34086",
+        "Operation": "화~토 12:00 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/10194065",
+        "Name": "남해아구찜",
+        "Rate": "4.3"
+    },
+    {
+        "Address": "대전 유성구 노은서로76번길 51 (우)34092",
+        "Operation": "화~일 11:00 ~ 21:30",
+        "Homepage": "https://place.map.kakao.com/24123060",
+        "Name": "라차우",
+        "Rate": "4.4"
+    },
+    {
+        "Address": "대전 유성구 테크노5로 72 2-3층 (우)34014",
+        "Operation": "매일 11:00 ~ 21:30",
+        "Homepage": "https://place.map.kakao.com/197979859",
+        "Name": "띠울석갈비 테크노점",
+        "Rate": "3.1"
+    },
+    {
+        "Address": "대전 유성구 반석로 136-6 1층 (우)34065",
+        "Operation": "월~토 11:30 ~ 21:30",
+        "Homepage": "https://place.map.kakao.com/27215753",
+        "Name": "가데나",
+        "Rate": "38"
+    },
+    {
+        "Address": "대전 유성구 문화원로 110 1층 (우)34185",
+        "Operation": "매일 17:00 ~ 10:00",
+        "Homepage": "https://place.map.kakao.com/82564218",
+        "Name": "라무다찌 본점",
+        "Rate": "4.3"
+    },
+    {
+        "Address": "대전 유성구 대학로 56 (우)34185",
+        "Operation": "매일 12:00 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/13078892",
+        "Name": "양탄가",
+        "Rate": "4.6"
+    },
+    {
+        "Address": "대전 유성구 덕명동로16번길 9 (우)34155",
+        "Operation": "화요일",
+        "Homepage": "https://place.map.kakao.com/27444103",
+        "Name": "옛날숯불갈비 본점",
+        "Rate": "4.8"
+    },
+    {
+        "Address": "대전 유성구 은구비로155번길 32-9 (우)34097",
+        "Operation": "매일 11:30 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/26490812",
+        "Name": "628파스타",
+        "Rate": "4.0"
+    },
+    {
+        "Address": "대전 유성구 상대동로36번길 7-13 1층 (우)34199",
+        "Operation": "월~토 17:00 ~ 24:00",
+        "Homepage": "https://place.map.kakao.com/294722750",
+        "Name": "바다횟집 유성직영점",
+        "Rate": "3.3"
+    },
+    {
+        "Address": "대전 유성구 유성대로1163번길 9 (우)34105",
+        "Operation": "매일 11:00 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/618533918",
+        "Name": "대포갈비",
+        "Rate": "3.8"
+    },
+    {
+        "Address": "대전 유성구 봉명서로 11-10 1층 101호 (우)34190",
+        "Operation": "화~일 11:30 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/27383139",
+        "Name": "비바릴리 도안점",
+        "Rate": "3.6"
+    },
+    {
+        "Address": "대전 유성구 엑스포로 131 TJB사옥 1층 (우)34125",
+        "Operation": "매일 08:30 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/434352978",
+        "Name": "갤러리고트빈",
+        "Rate": "4.2"
+    },
+    {
+        "Address": "대전 유성구 현충원로447번길 6 1층 (우)34147",
+        "Operation": "매일 10:00 ~ 22:30",
+        "Homepage": "https://place.map.kakao.com/795525023",
+        "Name": "카페나무",
+        "Rate": "4.5"
+    },
+    {
+        "Address": "대전 유성구 월드컵대로 289 2층 (우)34181",
+        "Operation": "매일 11:00 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/585626915",
+        "Name": "교동면옥 대전구암점",
+        "Rate": "3.9"
+    },
+    {
+        "Address": "대전 유성구 궁동로18번길 45 2층 (우)34137",
+        "Operation": "매일 10:30 ~ 20:30",
+        "Homepage": "https://place.map.kakao.com/13308761",
+        "Name": "별리달리",
+        "Rate": "42"
+    },
+    {
+        "Address": "대전 유성구 대학로75번길 17 1층 (우)34167",
+        "Operation": "매일 00:00 ~ 24:00",
+        "Homepage": "https://place.map.kakao.com/2028730486",
+        "Name": "대감댁왕뼈해장국 유성점",
+        "Rate": "3.6"
+    },
+    {
+        "Address": "대전 유성구 문지로316번길 37-11 1층 (우)34050",
+        "Operation": "화~토 11:30 ~ 21:30",
+        "Homepage": "https://place.map.kakao.com/432014981",
+        "Name": "쿠치나아스티",
+        "Rate": "4.1"
+    },
+    {
+        "Address": "대전 유성구 유성대로736번길 55 (우)34171",
+        "Operation": "매일 11:30 ~ 21:30",
+        "Homepage": "https://place.map.kakao.com/10745840",
+        "Name": "원조촌돼지",
+        "Rate": "3.3"
+    },
+    {
+        "Address": "대전 유성구 수통골로 17 3층 (우)34154",
+        "Operation": "매일 11:00 ~ 21:30",
+        "Homepage": "https://place.map.kakao.com/24876237",
+        "Name": "수통골능이버섯백숙",
+        "Rate": "4.4"
+    },
+    {
+        "Address": "대전 유성구 봉명서로 17-4 (우)34190",
+        "Operation": "매일 11:30 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/1289793600",
+        "Name": "스시유이",
+        "Rate": "4.3"
+    },
+    {
+        "Address": "대전 유성구 박산로140번길 162-19 1층 (우)34156",
+        "Operation": "화~일 10:00 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/1308119249",
+        "Name": "구암약선오리",
+        "Rate": "3.8"
+    },
+    {
+        "Address": "대전 유성구 유성대로822번길 32 1층 (우)34136",
+        "Operation": "월~토 11:00 ~ 15:00",
+        "Homepage": "https://place.map.kakao.com/1808127967",
+        "Name": "하늘돈가스백반",
+        "Rate": "4.4"
+    },
+    {
+        "Address": "대전 유성구 관평2로 7-5 1층 101, 102호 (우)34018",
+        "Operation": "매일 11:30 ~ 24:00",
+        "Homepage": "https://place.map.kakao.com/2014141398",
+        "Name": "맛찬들왕소금구이 대전관평점",
+        "Rate": "4.5"
+    },
+    {
+        "Address": "대전 유성구 온천서로 22-6 1층 (우)34168",
+        "Operation": "매일 00:00 ~ 24:00",
+        "Homepage": "https://place.map.kakao.com/663506307",
+        "Name": "부잣집 곰탕",
+        "Rate": "3.9"
+    },
+    {
+        "Address": "대전 유성구 대덕대로 588 2층 (우)34121",
+        "Operation": "월~토 11:00 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/8094271",
+        "Name": "가남지",
+        "Rate": "2.9"
+    },
+    {
+        "Address": "대전 유성구 신성로61번길 93-5 (우)34107",
+        "Operation": "매일 10:00 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/305301794",
+        "Name": "화돌농장 대전직영점",
+        "Rate": "4.7"
+    },
+    {
+        "Address": "대전 유성구 대덕대로 598 더포엠2 1층 (우)34121",
+        "Operation": "매일 11:30 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/1659320608",
+        "Name": "리코제이 레스토랑",
+        "Rate": "4.1"
+    },
+    {
+        "Address": "대전 유성구 죽동로279번길 53-12 (우)34127",
+        "Operation": "월~토 17:00 ~ 01:00",
+        "Homepage": "https://place.map.kakao.com/229231893",
+        "Name": "일월갈비",
+        "Rate": "4.5"
+    },
+    {
+        "Address": "대전 유성구 계룡로105번길 15 (우)34187",
+        "Operation": "월~금 10:30 ~ 21:30",
+        "Homepage": "https://place.map.kakao.com/22019067",
+        "Name": "다해어죽",
+        "Rate": "3.8"
+    },
+    {
+        "Address": "대전 유성구 신성로 122 (우)34109",
+        "Operation": "매일 11:00 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/21336299",
+        "Name": "숯골원조냉면식당",
+        "Rate": "3.2"
+    },
+    {
+        "Address": "대전 유성구 온천동로65번길 26 1, 2층 (우)34185",
+        "Operation": "매일 11:00 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/1509585212",
+        "Name": "고치소사마",
+        "Rate": "2.9"
+    },
+    {
+        "Address": "대전 유성구 원내로 57 (우)34227",
+        "Operation": "매일 10:00 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/23674545",
+        "Name": "맛나감자탕 원내점",
+        "Rate": "4.5"
+    },
+    {
+        "Address": "대전 유성구 관들2길 21 1층 (우)34018",
+        "Operation": "매일 12:00 ~ 24:00",
+        "Homepage": "https://place.map.kakao.com/2057420459",
+        "Name": "소도둑 대전관평점",
+        "Rate": "3.8"
+    },
+    {
+        "Address": "대전 유성구 테크노5로 68 우림빌딩 1층 (우)34014",
+        "Operation": "매일 11:00 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/29006879",
+        "Name": "송강왕막국수",
+        "Rate": "4.5"
+    },
+    {
+        "Address": "대전 유성구 수통골로 87 (우)34154",
+        "Operation": "매일 10:30 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/1892280161",
+        "Name": "복드리오리 수통골점",
+        "Rate": "3.4"
+    },
+    {
+        "Address": "대전 유성구 엑스포로151번길 19 C동 D102,D103호 (우)34125",
+        "Operation": "알수없음",
+        "Homepage": "https://place.map.kakao.com/1438566973",
+        "Name": "랑골로",
+        "Rate": "3.3"
+    },
+    {
+        "Address": "대전 유성구 온천로 53 (우)34186",
+        "Operation": "월~토 08:00 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/18697018",
+        "Name": "송정설렁탕 본점",
+        "Rate": "4.0"
+    },
+    {
+        "Address": "대전 유성구 농대로17번길 22 1층 (우)34138",
+        "Operation": "매일 11:00 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/12256824",
+        "Name": "바리스타빈",
+        "Rate": "32"
+    },
+    {
+        "Address": "대전 유성구 장대로 38 (우)34170",
+        "Operation": "월~토 11:30 ~ 21:30",
+        "Homepage": "https://place.map.kakao.com/9021814",
+        "Name": "만수불고기",
+        "Rate": "3.8"
+    },
+    {
+        "Address": "대전 유성구 엑스포로539번길 202-21 1층 (우)34043",
+        "Operation": "매일 11:00 ~ 23:00",
+        "Homepage": "https://place.map.kakao.com/1184518763",
+        "Name": "한마음정육식당 대전탑립점",
+        "Rate": "4.9"
+    },
+    {
+        "Address": "대전 유성구 죽동로297번길 12 1층 (우)34127",
+        "Operation": "매일 08:00 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/1924018698",
+        "Name": "콜마르브레드 죽동점",
+        "Rate": "3.8"
+    },
+    {
+        "Address": "대전 유성구 죽동로280번길 56 1층 (우)34127",
+        "Operation": "월~토 11:00 ~ 24:00",
+        "Homepage": "https://place.map.kakao.com/1820557244",
+        "Name": "라까사",
+        "Rate": "4.7"
+    },
+    {
+        "Address": "대전 유성구 관들2길 8-3 1층 (우)34018",
+        "Operation": "매일 17:00 ~ 00:30",
+        "Homepage": "https://place.map.kakao.com/980682864",
+        "Name": "곱창역 본점",
+        "Rate": "3.3"
+    },
+    {
+        "Address": "대전 유성구 봉명서로 3-4 (우)34190",
+        "Operation": "월~금 09:00 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/27420066",
+        "Name": "카페106 도안수변공원점",
+        "Rate": "4.4"
+    },
+    {
+        "Address": "대전 유성구 유성대로736번길 82 1층 (우)34170",
+        "Operation": "화~일 11:30 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/576896936",
+        "Name": "인생온면",
+        "Rate": "4.1"
+    },
+    {
+        "Address": "대전 유성구 신성로84번길 74 1층 (우)34116",
+        "Operation": "매일 11:30 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/7908767",
+        "Name": "복덩어리 본점",
+        "Rate": "4.1"
+    },
+    {
+        "Address": "대전 유성구 계룡로26번길 28 1층 (우)34176",
+        "Operation": "매일 11:00 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/9708907",
+        "Name": "늘푸른쌈밥",
+        "Rate": "3.9"
+    },
+    {
+        "Address": "대전 유성구 관들2길 1 (우)34018",
+        "Operation": "매일 00:00 ~ 24:00",
+        "Homepage": "https://place.map.kakao.com/27321464",
+        "Name": "24시전주명가콩나물국밥 관평점",
+        "Rate": "4.7"
+    },
+    {
+        "Address": "대전 유성구 계룡로 33 1층 (우)34175",
+        "Operation": "매일 09:30 ~ 23:00",
+        "Homepage": "https://place.map.kakao.com/24963834",
+        "Name": "만년닭강정 본점",
+        "Rate": "3.0"
+    },
+    {
+        "Address": "대전 유성구 대덕대로925번길 51-17 1층 (우)34058",
+        "Operation": "매일 11:00 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/1855566750",
+        "Name": "갓솥",
+        "Rate": "4.4"
+    },
+    {
+        "Address": "대전 유성구 노은동로79번길 30 (우)34091",
+        "Operation": "매일 10:00 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/26405301",
+        "Name": "두부집",
+        "Rate": "4.1"
+    },
+    {
+        "Address": "대전 유성구 어은로58번길 62 그랑펠리체 상가 1층 103호 (우)34139",
+        "Operation": "매일 11:00 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/317691428",
+        "Name": "잇마이타이",
+        "Rate": "3.9"
+    },
+    {
+        "Address": "대전 유성구 대학로 31 유성한진오피스텔 2층 (우)34168",
+        "Operation": "월~금 11:00 ~ 20:00",
+        "Homepage": "https://place.map.kakao.com/21239499",
+        "Name": "귀빈한식뷔페",
+        "Rate": "4.1"
+    },
+    {
+        "Address": "대전 유성구 월드컵대로351번길 5 2층 (우)34180",
+        "Operation": "매일 09:30 ~ 21:30",
+        "Homepage": "https://place.map.kakao.com/884734866",
+        "Name": "오브떼르",
+        "Rate": "3.6"
+    },
+    {
+        "Address": "대전 유성구 계룡로59번길 15 1층 (우)34169",
+        "Operation": "매일 17:00 ~ 23:00",
+        "Homepage": "https://place.map.kakao.com/10616425",
+        "Name": "온천돌구이",
+        "Rate": "4.4"
+    },
+    {
+        "Address": "대전 유성구 대학로145번길 22 1층 (우)34137",
+        "Operation": "매일 11:00 ~ 01:00",
+        "Homepage": "https://place.map.kakao.com/14080406",
+        "Name": "아저씨 궁동점",
+        "Rate": "4.4"
+    },
+    {
+        "Address": "대전 유성구 대학로 131 1층 101호 (우)34137",
+        "Operation": "매일 11:00 ~ 20:30",
+        "Homepage": "https://place.map.kakao.com/844023827",
+        "Name": "씨멘트 충남대점",
+        "Rate": "4.0"
+    },
+    {
+        "Address": "대전 유성구 계룡로 119 10층 10-1호 (우)34187",
+        "Operation": "매일 11:00 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/798674364",
+        "Name": "애슐리퀸즈 NC대전유성점",
+        "Rate": "216"
+    },
+    {
+        "Address": "대전 유성구 죽동로298번길 25 1층 (우)34127",
+        "Operation": "수요일",
+        "Homepage": "https://place.map.kakao.com/1335766756",
+        "Name": "키우키우",
+        "Rate": "117"
+    },
+    {
+        "Address": "대전 유성구 노은서로 121 (우)34088",
+        "Operation": "월,수,목,금,토,일 11:00 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/8480348",
+        "Name": "아이리스",
+        "Rate": "3.0"
+    },
+    {
+        "Address": "대전 유성구 원신흥남로27번길 14 1층 (우)34194",
+        "Operation": "매일 11:00 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/19851408",
+        "Name": "청와삼대 대전유성점",
+        "Rate": "2.8"
+    },
+    {
+        "Address": "대전 유성구 은구비로155번안길 59 (우)34097",
+        "Operation": "월~토 08:30 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/294844697",
+        "Name": "올리브가든 본점",
+        "Rate": "4.0"
+    },
+    {
+        "Address": "대전 유성구 전민로 64 (우)34052",
+        "Operation": "매일 10:00 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/10974040",
+        "Name": "화목한우리집",
+        "Rate": "4.1"
+    },
+    {
+        "Address": "대전 유성구 노은로 150 (우)34086",
+        "Operation": "일요일",
+        "Homepage": "https://place.map.kakao.com/21358828",
+        "Name": "연스시",
+        "Rate": "3.9"
+    },
+    {
+        "Address": "대전 유성구 월드컵대로 285 1층 (우)34181",
+        "Operation": "매일 10:50 ~ 20:50",
+        "Homepage": "https://place.map.kakao.com/24738202",
+        "Name": "할머니추어탕 유성10호점",
+        "Rate": "4.3"
+    },
+    {
+        "Address": "대전 유성구 온천북로33번길 39 (우)34185",
+        "Operation": "매일 12:00 ~ 02:30",
+        "Homepage": "https://place.map.kakao.com/1951994605",
+        "Name": "명작",
+        "Rate": "2.9"
+    },
+    {
+        "Address": "대전 유성구 대학로203번길 17 1층 (우)34139",
+        "Operation": "월~토 11:30 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/160032538",
+        "Name": "사랑담은",
+        "Rate": "4.3"
+    },
+    {
+        "Address": "대전 유성구 한밭대로 407-18 1층 (우)34136",
+        "Operation": "매일 17:30 ~ 23:00",
+        "Homepage": "https://place.map.kakao.com/2118124327",
+        "Name": "훈불",
+        "Rate": "3.8"
+    },
+    {
+        "Address": "대전 유성구 대학로 12 (우)34187",
+        "Operation": "매일 10:00 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/1823793538",
+        "Name": "비단강장어",
+        "Rate": "3.3"
+    },
+    {
+        "Address": "대전 유성구 온천북로33번길 10 1층 101호 (우)34185",
+        "Operation": "월~목 16:00 ~ 23:00",
+        "Homepage": "https://place.map.kakao.com/19264903",
+        "Name": "수리왕족발보쌈 유성점",
+        "Rate": "4.0"
+    },
+    {
+        "Address": "대전 유성구 구즉로54번길 37 1층 (우)34009",
+        "Operation": "월~토 16:30 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/24546220",
+        "Name": "최군족발",
+        "Rate": "4.6"
+    },
+    {
+        "Address": "대전 유성구 원신흥로55번길 65-20 1층 (우)34193",
+        "Operation": "월,수,목,금,토,일 11:00 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/1792811310",
+        "Name": "이태리 스테오",
+        "Rate": "72"
+    },
+    {
+        "Address": "대전 유성구 현충원로455번길 10-9 (우)34147",
+        "Operation": "매일 11:00 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/1116991691",
+        "Name": "천년육개장",
+        "Rate": "3.2"
+    },
+    {
+        "Address": "대전 유성구 계룡로87번길 16 (우)34168",
+        "Operation": "매일 11:30 ~ 24:00",
+        "Homepage": "https://place.map.kakao.com/17652740",
+        "Name": "연타발 대전유성점",
+        "Rate": "3.8"
+    },
+    {
+        "Address": "대전 유성구 관평2로 32 2층 (우)34019",
+        "Operation": "매일 11:00 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/21722923",
+        "Name": "라라코스트 대전관평점",
+        "Rate": "3.4"
+    },
+    {
+        "Address": "대전 유성구 농대로15번길 12 1층 (우)34138",
+        "Operation": "월~토 13:00 ~ 02:00",
+        "Homepage": "https://place.map.kakao.com/9673003",
+        "Name": "경성양꼬치 대전본점",
+        "Rate": "4.3"
+    },
+    {
+        "Address": "대전 유성구 관평1로 89 (우)34018",
+        "Operation": "월~금 17:00 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/27214656",
+        "Name": "숯불갈비전문점1183",
+        "Rate": "4.6"
+    },
+    {
+        "Address": "대전 유성구 금남구즉로 1378 (우)34003",
+        "Operation": "매일 10:00 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/12473363",
+        "Name": "강태분할머니묵집",
+        "Rate": "3.6"
+    },
+    {
+        "Address": "대전 유성구 반석로12번안길 10 (우)34068",
+        "Operation": "매일 17:00 ~ 24:00",
+        "Homepage": "https://place.map.kakao.com/1434288659",
+        "Name": "눈꽃",
+        "Rate": "3.9"
+    },
+    {
+        "Address": "대전 유성구 죽동로279번길 63-8 (우)34127",
+        "Operation": "매일 11:00 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/286909702",
+        "Name": "엉클부대찌개",
+        "Rate": "3.8"
+    },
+    {
+        "Address": "대전 유성구 관들2길 8-31 (우)34018",
+        "Operation": "매일 15:00 ~ 01:00",
+        "Homepage": "https://place.map.kakao.com/27351751",
+        "Name": "백조한우마을 관평점",
+        "Rate": "4.7"
+    },
+    {
+        "Address": "대전 유성구 노은서로 61 송월빌딩 1층 (우)34145",
+        "Operation": "매일 10:00 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/10903183",
+        "Name": "토종칼국수",
+        "Rate": "4.0"
+    },
+    {
+        "Address": "대전 유성구 지족북로66번길 27 1층 (우)34070",
+        "Operation": "매일 08:00 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/1881970497",
+        "Name": "반가워요오늘",
+        "Rate": "4.4"
+    },
+    {
+        "Address": "대전 중구 대종로505번길 29 1,2층 (우)34838",
+        "Operation": "화~일 10:30 ~ 21:30",
+        "Homepage": "https://place.map.kakao.com/8209640",
+        "Name": "광천식당",
+        "Rate": "3.0"
+    },
+    {
+        "Address": "대전 중구 중교로 45-5 (우)34915",
+        "Operation": "월,수,목,금,토,일 11:30 ~ 23:00",
+        "Homepage": "https://place.map.kakao.com/12468740",
+        "Name": "진로집",
+        "Rate": "3.2"
+    },
+    {
+        "Address": "대전 중구 대흥로10번길 5 1층 (우)34945",
+        "Operation": "수~일 10:00 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/1784443072",
+        "Name": "시민칼국수",
+        "Rate": "3.7"
+    },
+    {
+        "Address": "대전 중구 대종로 455 1층 (우)34920",
+        "Operation": "매일 11:30 ~ 21:30",
+        "Homepage": "https://place.map.kakao.com/8038484",
+        "Name": "월산본가",
+        "Rate": "3.1"
+    },
+    {
+        "Address": "대전 중구 보문로230번길 82 1층 (우)34919",
+        "Operation": "월~토 11:00 ~ 20:30",
+        "Homepage": "https://place.map.kakao.com/10542619",
+        "Name": "미소본가스마일칼국수",
+        "Rate": "3.9"
+    },
+    {
+        "Address": "대전 중구 중앙로130번길 37-10 (우)34915",
+        "Operation": "매일 10:30 ~ 24:00",
+        "Homepage": "https://place.map.kakao.com/10983353",
+        "Name": "현대식당",
+        "Rate": "4.1"
+    },
+    {
+        "Address": "대전 중구 충무로 138 (우)35027",
+        "Operation": "화~일 08:00 ~ 24:00",
+        "Homepage": "https://place.map.kakao.com/21339245",
+        "Name": "농민순대",
+        "Rate": "3.3"
+    },
+    {
+        "Address": "대전 중구 중앙로129번길 21 (우)34838",
+        "Operation": "매일 11:30 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/8670704",
+        "Name": "희락반점",
+        "Rate": "3.9"
+    },
+    {
+        "Address": "대전 중구 대흥로175번길 28 (우)34926",
+        "Operation": "매일 11:00 ~ 22:30",
+        "Homepage": "https://place.map.kakao.com/11006001",
+        "Name": "대전갈비집",
+        "Rate": "3.4"
+    },
+    {
+        "Address": "대전 중구 대흥로 138 1층 (우)34934",
+        "Operation": "화~일 11:00 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/8331536",
+        "Name": "만나 대흥본점",
+        "Rate": "4.3"
+    },
+    {
+        "Address": "대전 중구 선화로 128 (우)34836",
+        "Operation": "화~일 09:00 ~ 23:00",
+        "Homepage": "https://place.map.kakao.com/23585179",
+        "Name": "선화동소머리해장국 본점",
+        "Rate": "2.6"
+    },
+    {
+        "Address": "대전 중구 계룡로874번길 6 1층 (우)34908",
+        "Operation": "화~일 11:00 ~ 21:30",
+        "Homepage": "https://place.map.kakao.com/9589060",
+        "Name": "한영식당",
+        "Rate": "3.6"
+    },
+    {
+        "Address": "대전 중구 중교로 27 1층 (우)34916",
+        "Operation": "화~일 10:30 ~ 20:00",
+        "Homepage": "https://place.map.kakao.com/21624907",
+        "Name": "복수분식 본점",
+        "Rate": "3.1"
+    },
+    {
+        "Address": "대전 중구 선화서로 34 한국빌딩 1층 (우)34864",
+        "Operation": "월~금 11:30 ~ 20:00",
+        "Homepage": "https://place.map.kakao.com/778787000",
+        "Name": "요우란",
+        "Rate": "4.2"
+    },
+    {
+        "Address": "대전 중구 대흥로121번길 43 (우)34918",
+        "Operation": "화~일 11:30 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/9772243",
+        "Name": "바다황제",
+        "Rate": "26"
+    },
+    {
+        "Address": "대전 중구 대종로460번길 57 (우)34926",
+        "Operation": "매일 11:30 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/11130578",
+        "Name": "소나무집",
+        "Rate": "3.6"
+    },
+    {
+        "Address": "대전 중구 중교로 84-1 (우)34925",
+        "Operation": "매일 11:30 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/1470451747",
+        "Name": "보문산호랭이",
+        "Rate": "3.5"
+    },
+    {
+        "Address": "대전 중구 선화로 126-10 (우)34836",
+        "Operation": "일요일",
+        "Homepage": "https://place.map.kakao.com/9179366",
+        "Name": "선화동실비식당",
+        "Rate": "3.1"
+    },
+    {
+        "Address": "대전 중구 계룡로874번길 47 3층 (우)34909",
+        "Operation": "매일 12:00 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/1636040232",
+        "Name": "목수정",
+        "Rate": "4.4"
+    },
+    {
+        "Address": "대전 중구 목척8길 39 1,2층 (우)34832",
+        "Operation": "매일 11:00 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/241405537",
+        "Name": "오시우커피",
+        "Rate": "588"
+    },
+    {
+        "Address": "대전 중구 중앙로112번길 34 (우)34916",
+        "Operation": "화~일 17:00 ~ 24:00",
+        "Homepage": "https://place.map.kakao.com/24961572",
+        "Name": "서울치킨",
+        "Rate": "3.5"
+    },
+    {
+        "Address": "대전 중구 중교로73번길 33 1층 (우)34921",
+        "Operation": "매일 10:00 ~ 21:30",
+        "Homepage": "https://place.map.kakao.com/8658620",
+        "Name": "공주얼큰이칼국수쭈꾸미",
+        "Rate": "3.1"
+    },
+    {
+        "Address": "대전 중구 대종로460번길 25 (우)34925",
+        "Operation": "매일 16:00 ~ 02:00",
+        "Homepage": "https://place.map.kakao.com/13272552",
+        "Name": "원조황소집",
+        "Rate": "3.7"
+    },
+    {
+        "Address": "대전 중구 보문산로 331 3층 만수민물장어 (우)35020",
+        "Operation": "매일 11:00 ~ 09:30",
+        "Homepage": "https://place.map.kakao.com/26436321",
+        "Name": "만수민물장어",
+        "Rate": "3.7"
+    },
+    {
+        "Address": "대전 중구 중앙로130번길 37-13 (우)34915",
+        "Operation": "매일 12:00 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/9937270",
+        "Name": "정식당",
+        "Rate": "4.0"
+    },
+    {
+        "Address": "대전 중구 수침로 94 1층 (우)34883",
+        "Operation": "매일 16:00 ~ 23:00",
+        "Homepage": "https://place.map.kakao.com/16828596",
+        "Name": "우리풍천장어숯불꼼장어닭발 대전본점",
+        "Rate": "4.6"
+    },
+    {
+        "Address": "대전 중구 중앙로164번길 22-7 (우)34921",
+        "Operation": "매일 11:00 ~ 20:30",
+        "Homepage": "https://place.map.kakao.com/10594540",
+        "Name": "아저씨돈까스",
+        "Rate": "3.0"
+    },
+    {
+        "Address": "대전 중구 대흥로121번길 42 (우)34919",
+        "Operation": "월~토 11:00 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/8248612",
+        "Name": "내집",
+        "Rate": "4.0"
+    },
+    {
+        "Address": "대전 중구 계백로 1705-34 1층 (우)34909",
+        "Operation": "월~토 14:00 ~ 24:00",
+        "Homepage": "https://place.map.kakao.com/9211079",
+        "Name": "수정삼겹살",
+        "Rate": "4.3"
+    },
+    {
+        "Address": "대전 중구 대종로480번길 15 2층 (우)34921",
+        "Operation": "매일 10:00 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/8622628",
+        "Name": "테라스키친",
+        "Rate": "4.0"
+    },
+    {
+        "Address": "대전 중구 대종로 480 2층 (우)34921",
+        "Operation": "매일 11:00 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/8606163",
+        "Name": "플라잉팬",
+        "Rate": "4.3"
+    },
+    {
+        "Address": "대전 중구 중앙로156번길 41-9 (우)34924",
+        "Operation": "월,수,목,금,토,일 10:30 ~ 22:30",
+        "Homepage": "https://place.map.kakao.com/8570326",
+        "Name": "토박이",
+        "Rate": "3.0"
+    },
+    {
+        "Address": "대전 중구 중앙로112번길 43 (우)34916",
+        "Operation": "매일 11:30 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/14878942",
+        "Name": "태화원",
+        "Rate": "2.4"
+    },
+    {
+        "Address": "대전 중구 보문산공원로 484 3,4층 (우)35052",
+        "Operation": "화~일 07:00 ~ 20:20",
+        "Homepage": "https://place.map.kakao.com/1001383115",
+        "Name": "반찬식당",
+        "Rate": "4.3"
+    },
+    {
+        "Address": "대전 중구 중앙로130번길 37-6 2층 (우)34915",
+        "Operation": "매일 12:00 ~ 23:00",
+        "Homepage": "https://place.map.kakao.com/1031817760",
+        "Name": "대흥동커피",
+        "Rate": "4.1"
+    },
+    {
+        "Address": "대전 중구 중앙로156번길 16 앤비백화점 6층 (우)34921",
+        "Operation": "월~금 11:00 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/19534957",
+        "Name": "쿠우쿠우 대전점",
+        "Rate": "3.6"
+    },
+    {
+        "Address": "대전 중구 목중로19번길 76 1층 (우)34816",
+        "Operation": "월~토 11:00 ~ 21:30",
+        "Homepage": "https://place.map.kakao.com/18260027",
+        "Name": "목동칼국수 목동점",
+        "Rate": "4.6"
+    },
+    {
+        "Address": "대전 중구 충무로 124 (우)35021",
+        "Operation": "수요일",
+        "Homepage": "https://place.map.kakao.com/9251549",
+        "Name": "아줌마돈까스 본점",
+        "Rate": "3.0"
+    },
+    {
+        "Address": "대전 중구 중앙로138번길 30 B동 2층 (우)34914",
+        "Operation": "월~금 17:00 ~ 03:00",
+        "Homepage": "https://place.map.kakao.com/1000720475",
+        "Name": "청담이상 대전대흥점",
+        "Rate": "3.6"
+    },
+    {
+        "Address": "대전 중구 대종로505번길 19 1층 (우)34838",
+        "Operation": "수~일 12:00 ~ 19:00",
+        "Homepage": "https://place.map.kakao.com/8467030",
+        "Name": "우리칼국수",
+        "Rate": "4.8"
+    },
+    {
+        "Address": "대전 중구 계룡로 875 1층 (우)34869",
+        "Operation": "매일 11:30 ~ 23:00",
+        "Homepage": "https://place.map.kakao.com/460118164",
+        "Name": "크래버 대게나라 대전점",
+        "Rate": "4.2"
+    },
+    {
+        "Address": "대전 중구 대종로 258 1층 (우)35035",
+        "Operation": "매일 10:30 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/10973853",
+        "Name": "홍두깨칼국수",
+        "Rate": "3.6"
+    },
+    {
+        "Address": "대전 중구 목척4길 4 1층 (우)34832",
+        "Operation": "매일 11:00 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/20245776",
+        "Name": "안도르",
+        "Rate": "4.2"
+    },
+    {
+        "Address": "대전 중구 대흥로121번길 36 2층 (우)34919",
+        "Operation": "매일 12:00 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/1821286589",
+        "Name": "100시트",
+        "Rate": "3.3"
+    },
+    {
+        "Address": "대전 중구 대종로 460 월드컵빌딩 1층 (우)34925",
+        "Operation": "월~토 11:00 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/1934252018",
+        "Name": "대원칼국수",
+        "Rate": "3.8"
+    },
+    {
+        "Address": "대전 중구 충무로 127 2~4층 (우)34935",
+        "Operation": "매일 11:30 ~ 21:30",
+        "Homepage": "https://place.map.kakao.com/8237815",
+        "Name": "금광한정식",
+        "Rate": "3.5"
+    },
+    {
+        "Address": "대전 중구 중앙로122번길 38 1층 (우)34916",
+        "Operation": "월~토 17:00 ~ 24:00",
+        "Homepage": "https://place.map.kakao.com/1912832592",
+        "Name": "나무오향족발",
+        "Rate": "3.9"
+    },
+    {
+        "Address": "대전 중구 계룡로874번길 97 1층 (우)34910",
+        "Operation": "월~토 16:00 ~ 01:00",
+        "Homepage": "https://place.map.kakao.com/1998488319",
+        "Name": "제주오목돈",
+        "Rate": "3.6"
+    },
+    {
+        "Address": "대전 중구 대종로452번길 3 2층 (우)34925",
+        "Operation": "매일 12:00 ~ 23:00",
+        "Homepage": "https://place.map.kakao.com/361849729",
+        "Name": "사무실카페",
+        "Rate": "3.8"
+    },
+    {
+        "Address": "대전 중구 중앙로121번길 36 1층 (우)34837",
+        "Operation": "수요일",
+        "Homepage": "https://place.map.kakao.com/19489147",
+        "Name": "누리손만두",
+        "Rate": "4.8"
+    },
+    {
+        "Address": "대전 중구 선화서로 48-1 (우)34862",
+        "Operation": "매일 17:00 ~ 02:00",
+        "Homepage": "https://place.map.kakao.com/316976275",
+        "Name": "대전막장집",
+        "Rate": "3.6"
+    },
+    {
+        "Address": "대전 중구 문화로 145 (우)34971",
+        "Operation": "매일 11:30 ~ 21:00 (재료 소진 시 조기마감)",
+        "Homepage": "https://place.map.kakao.com/8516501",
+        "Name": "육교회관",
+        "Rate": "2.9"
+    },
+    {
+        "Address": "대전 중구 중앙로112번길 42 1층 (우)34916",
+        "Operation": "화~토 11:30 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/1865995943",
+        "Name": "스시쿠루마",
+        "Rate": "3.3"
+    },
+    {
+        "Address": "대전 중구 대종로517번길 62 1층 (우)34836",
+        "Operation": "매일 11:00 ~ 15:00 (재료소진시 영업종료)",
+        "Homepage": "https://place.map.kakao.com/10159821",
+        "Name": "고단백식당",
+        "Rate": "3.1"
+    },
+    {
+        "Address": "대전 중구 계백로1583번길 39 (우)34891",
+        "Operation": "매일 11:00 ~ 21:30",
+        "Homepage": "https://place.map.kakao.com/16505390",
+        "Name": "대들보함흥면옥",
+        "Rate": "2.9"
+    },
+    {
+        "Address": "대전 중구 대종로480번길 7 2층 (우)34921",
+        "Operation": "매일 11:30 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/1358547375",
+        "Name": "고베규카츠 대전은행점",
+        "Rate": "2008"
+    },
+    {
+        "Address": "대전 중구 보문로 21 (우)35033",
+        "Operation": "월요일",
+        "Homepage": "https://place.map.kakao.com/15436258",
+        "Name": "다리위오징어",
+        "Rate": "4.5"
+    },
+    {
+        "Address": "대전 중구 대흥로121번길 30-3 1층 (우)34919",
+        "Operation": "화~일 11:30 ~ 21:30",
+        "Homepage": "https://place.map.kakao.com/414560365",
+        "Name": "도프차일드키친",
+        "Rate": "203"
+    },
+    {
+        "Address": "대전 중구 당디로 12 (우)35010",
+        "Operation": "월~토 11:00 ~ 23:00",
+        "Homepage": "https://place.map.kakao.com/11245946",
+        "Name": "이조",
+        "Rate": "4.8"
+    },
+    {
+        "Address": "대전 중구 계백로 1620 1층 (우)34966",
+        "Operation": "매일 10:00 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/12589939",
+        "Name": "신풍전삼계탕 본점",
+        "Rate": "3.2"
+    },
+    {
+        "Address": "대전 중구 대전천서로 679-1 (우)34803",
+        "Operation": "화~일 09:30 ~ 20:30",
+        "Homepage": "https://place.map.kakao.com/18173072",
+        "Name": "신도칼국수",
+        "Rate": "3.4"
+    },
+    {
+        "Address": "대전 중구 보문산로141번길 39 (우)35010",
+        "Operation": "화~일 10:00 ~ 20:00",
+        "Homepage": "https://place.map.kakao.com/21338834",
+        "Name": "청석골칡냉면식당",
+        "Rate": "3.0"
+    },
+    {
+        "Address": "대전 중구 대둔산로 275 1층 (우)35082",
+        "Operation": "매일 11:00 ~ 21:30",
+        "Homepage": "https://place.map.kakao.com/27209089",
+        "Name": "메밀고개 시골막국수 본점",
+        "Rate": "3.9"
+    },
+    {
+        "Address": "대전 중구 목척4길 60 (우)34832",
+        "Operation": "일요일",
+        "Homepage": "https://place.map.kakao.com/10978223",
+        "Name": "호수식당",
+        "Rate": "4.8"
+    },
+    {
+        "Address": "대전 중구 중앙로156번길 41-12 1층 (우)34924",
+        "Operation": "월~토 15:00 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/27499973",
+        "Name": "오사카오코노미야끼",
+        "Rate": "3.8"
+    },
+    {
+        "Address": "대전 중구 부용로 44 1층 (우)35058",
+        "Operation": "매일 11:00 ~ 23:00",
+        "Homepage": "https://place.map.kakao.com/1641897853",
+        "Name": "점선면",
+        "Rate": "4.0"
+    },
+    {
+        "Address": "대전 중구 계백로1565번길 45 (우)34887",
+        "Operation": "월~토 17:00 ~ 24:00",
+        "Homepage": "https://place.map.kakao.com/13130177",
+        "Name": "고추식당 태평점",
+        "Rate": "4.2"
+    },
+    {
+        "Address": "대전 중구 보문산로365번길 2 1층 (우)35016",
+        "Operation": "화~일 10:00 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/26602405",
+        "Name": "두손개성만두",
+        "Rate": "4.3"
+    },
+    {
+        "Address": "대전 중구 목동로 13 1층 (우)34826",
+        "Operation": "매일 11:00 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/1077695230",
+        "Name": "오븐브라더스",
+        "Rate": "186"
+    },
+    {
+        "Address": "대전 중구 계백로1685번길 18 (우)34909",
+        "Operation": "매일 17:00 ~ 01:00",
+        "Homepage": "https://place.map.kakao.com/24574849",
+        "Name": "하나참치 오류점",
+        "Rate": "2.4"
+    },
+    {
+        "Address": "대전 중구 계룡로874번길 71 1층 (우)34909",
+        "Operation": "화~토 12:00 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/1319509659",
+        "Name": "평생직장커피",
+        "Rate": "89"
+    },
+    {
+        "Address": "대전 중구 산서로 16 (우)35082",
+        "Operation": "매일 10:00 ~ 21:30",
+        "Homepage": "https://place.map.kakao.com/15405493",
+        "Name": "신화수산활어회타운",
+        "Rate": "48"
+    },
+    {
+        "Address": "대전 중구 오류로 47 (우)34905",
+        "Operation": "화~토 11:30 ~ 21:00 (재료소진시 조기마감)",
+        "Homepage": "https://place.map.kakao.com/1634830681",
+        "Name": "유메",
+        "Rate": "4.2"
+    },
+    {
+        "Address": "대전 중구 대흥로165번길 25 (우)34925",
+        "Operation": "매일 12:00 ~ 23:00",
+        "Homepage": "https://place.map.kakao.com/26327794",
+        "Name": "하얀책상",
+        "Rate": "3.8"
+    },
+    {
+        "Address": "대전 중구 중앙로16번길 27 2층 (우)34944",
+        "Operation": "수요일",
+        "Homepage": "https://place.map.kakao.com/8285323",
+        "Name": "대운산채",
+        "Rate": "4.3"
+    },
+    {
+        "Address": "대전 중구 중앙로122번길 45 1층 (우)34915",
+        "Operation": "매일 17:00 ~ 24:00",
+        "Homepage": "https://place.map.kakao.com/423563484",
+        "Name": "영희네매운등갈비찜 대흥점",
+        "Rate": "4.3"
+    },
+    {
+        "Address": "대전 중구 대흥로 138 A동 1층 (우)34934",
+        "Operation": "매일 10:00 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/19925551",
+        "Name": "할머니추어탕",
+        "Rate": "4.0"
+    },
+    {
+        "Address": "대전 중구 대둔산로 164 (우)35085",
+        "Operation": "매일 11:30 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/27391317",
+        "Name": "안영한우마을",
+        "Rate": "3.4"
+    },
+    {
+        "Address": "대전 중구 대종로488번길 46 1층 (우)34922",
+        "Operation": "매일 12:00 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/27543843",
+        "Name": "팬텀팬피그",
+        "Rate": "2.4"
+    },
+    {
+        "Address": "대전 중구 안영로 45 1층 (우)35083",
+        "Operation": "매일 11:00 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/15424095",
+        "Name": "김판순김치찌개",
+        "Rate": "3.4"
+    },
+    {
+        "Address": "대전 중구 대종로505번길 22 (우)34838",
+        "Operation": "수요일",
+        "Homepage": "https://place.map.kakao.com/9219417",
+        "Name": "신당동자갈구이",
+        "Rate": "3.4"
+    },
+    {
+        "Address": "대전 중구 보문로262번길 24 (우)34912",
+        "Operation": "월~금 11:30 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/1118128423",
+        "Name": "스스메르",
+        "Rate": "3.8"
+    },
+    {
+        "Address": "대전 중구 중앙로122번길 24 1층 (우)34912",
+        "Operation": "매일 16:00 ~ 24:00",
+        "Homepage": "https://place.map.kakao.com/1489413431",
+        "Name": "정통집 대흥점",
+        "Rate": "3.4"
+    },
+    {
+        "Address": "대전 중구 계룡로830번길 44 1층 (우)34904",
+        "Operation": "월~토 11:00 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/752826719",
+        "Name": "7930손님식탁",
+        "Rate": "3.8"
+    },
+    {
+        "Address": "대전 중구 동서대로1322번길 36 (우)34856",
+        "Operation": "매일 11:00 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/236224784",
+        "Name": "장수촌누룽지삼계탕",
+        "Rate": "4.6"
+    },
+    {
+        "Address": "대전 중구 충무로 123 1층 (우)34935",
+        "Operation": "월,화,수,금,토,일 10:00 ~ 20:30",
+        "Homepage": "https://place.map.kakao.com/1499325607",
+        "Name": "신도칼국수 대사점",
+        "Rate": "3.9"
+    },
+    {
+        "Address": "대전 중구 중앙로164번길 43 2층 (우)34923",
+        "Operation": "화~일 12:00 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/8950630",
+        "Name": "돼지마을",
+        "Rate": "4.7"
+    },
+    {
+        "Address": "대전 중구 유천로18번길 9 1층 (우)34970",
+        "Operation": "매일 11:00 ~ 15:00",
+        "Homepage": "https://place.map.kakao.com/16302755",
+        "Name": "평산면옥",
+        "Rate": "3.6"
+    },
+    {
+        "Address": "대전 중구 중앙로121번길 38 (우)34837",
+        "Operation": "매일 10:00 ~ 20:30",
+        "Homepage": "https://place.map.kakao.com/26088008",
+        "Name": "왕비성",
+        "Rate": "4.3"
+    },
+    {
+        "Address": "대전 중구 대전천서로 211 (우)35035",
+        "Operation": "월~토 10:30 ~ 20:00",
+        "Homepage": "https://place.map.kakao.com/12730429",
+        "Name": "유성순대",
+        "Rate": "4.4"
+    },
+    {
+        "Address": "대전 중구 유천로33번길 107 1층 (우)34982",
+        "Operation": "화요일",
+        "Homepage": "https://place.map.kakao.com/916619172",
+        "Name": "이성수왕짬뽕순두부 본점",
+        "Rate": "3.9"
+    },
+    {
+        "Address": "대전 중구 오류로 31 2층 (우)34906",
+        "Operation": "매일 11:00 ~ 21:30",
+        "Homepage": "https://place.map.kakao.com/2092461779",
+        "Name": "샤브쌈주머니 서대전역점",
+        "Rate": "4.6"
+    },
+    {
+        "Address": "대전 중구 보문로260번길 8 1층 (우)34916",
+        "Operation": "월 11:00 ~ 24:00",
+        "Homepage": "https://place.map.kakao.com/16271834",
+        "Name": "강변산닭",
+        "Rate": "4.7"
+    },
+    {
+        "Address": "대전 중구 대흥로165번길 6 (우)34927",
+        "Operation": "둘째,넷째 일요일",
+        "Homepage": "https://place.map.kakao.com/8589591",
+        "Name": "중국대반점",
+        "Rate": "3.2"
+    },
+    {
+        "Address": "대전 중구 대전천서로 201 (우)35036",
+        "Operation": "매일 11:00 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/1649254241",
+        "Name": "앙트르뽀",
+        "Rate": "3.6"
+    },
+    {
+        "Address": "대전 중구 선화로 110 1층 (우)34862",
+        "Operation": "매일 11:30 ~ 22:30",
+        "Homepage": "https://place.map.kakao.com/238481396",
+        "Name": "대전칼국수",
+        "Rate": "5.0"
+    },
+    {
+        "Address": "대전 중구 중앙로164번길 20 2층 (우)34921",
+        "Operation": "월~금 12:00 ~ 23:00",
+        "Homepage": "https://place.map.kakao.com/1246050022",
+        "Name": "도쿄빙수 은행동점",
+        "Rate": "3.6"
+    },
+    {
+        "Address": "대전 중구 선화서로 49-1 (우)34861",
+        "Operation": "월~토 18:00 ~ 01:00",
+        "Homepage": "https://place.map.kakao.com/1256684068",
+        "Name": "선화별당",
+        "Rate": "4.4"
+    },
+    {
+        "Address": "대전 중구 보문로262번길 45 1층 (우)34913",
+        "Operation": "매일 16:00 ~ 02:00",
+        "Homepage": "https://place.map.kakao.com/17077479",
+        "Name": "미미양꼬치",
+        "Rate": "3.2"
+    },
+    {
+        "Address": "대전 중구 계백로 1548 (우)34977",
+        "Operation": "화~일 11:00 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/19606241",
+        "Name": "정식당 3호점",
+        "Rate": "4.1"
+    },
+    {
+        "Address": "대전 중구 중앙로164번길 22-12 1층 (우)34921",
+        "Operation": "매일 11:00 ~ 23:00",
+        "Homepage": "https://place.map.kakao.com/2100145257",
+        "Name": "닭갈비제작소 은행점",
+        "Rate": "2.9"
+    },
+    {
+        "Address": "대전 중구 수침로 96-1 (우)34883",
+        "Operation": "매일 13:00 ~ 01:00",
+        "Homepage": "https://place.map.kakao.com/27518514",
+        "Name": "고드래미족발 태평점",
+        "Rate": "4.8"
+    },
+    {
+        "Address": "대전 중구 목중로20번길 54 (우)34813",
+        "Operation": "월~토 09:30 ~ 20:00",
+        "Homepage": "https://place.map.kakao.com/9819500",
+        "Name": "서울북어",
+        "Rate": "4.3"
+    },
+    {
+        "Address": "대전 중구 계룡로874번길 25 1층 (우)34909",
+        "Operation": "매일 11:40 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/88004222",
+        "Name": "항아리보쌈 별관",
+        "Rate": "2.9"
+    },
+    {
+        "Address": "대전 중구 계백로1565번길 25 (우)34891",
+        "Operation": "매일 12:30 ~ 01:00",
+        "Homepage": "https://place.map.kakao.com/1646946087",
+        "Name": "무쏘 유천점",
+        "Rate": "2.4"
+    },
+    {
+        "Address": "대전 중구 태평로 169-1 유등빌딩 1층 (우)34874",
+        "Operation": "화~일 10:00 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/1141363208",
+        "Name": "시골양반촌",
+        "Rate": "4.4"
+    },
+    {
+        "Address": "대전 중구 대종로 701 106호 (우)34807",
+        "Operation": "일요일",
+        "Homepage": "https://place.map.kakao.com/1740248296",
+        "Name": "락영반점",
+        "Rate": "4.6"
+    },
+    {
+        "Address": "대전 중구 계백로1630번길 11 1층 (우)34965",
+        "Operation": "화~일 11:00 ~ 21:30",
+        "Homepage": "https://place.map.kakao.com/456837189",
+        "Name": "도담",
+        "Rate": "2.2"
+    },
+    {
+        "Address": "대전 중구 계룡로882번길 56 (우)34909",
+        "Operation": "일요일",
+        "Homepage": "https://place.map.kakao.com/11672609",
+        "Name": "진성아구찜 오류36호점",
+        "Rate": "3.7"
+    },
+    {
+        "Address": "대전 중구 태평로 124-3 1층 (우)34881",
+        "Operation": "알수없음",
+        "Homepage": "https://place.map.kakao.com/233020090",
+        "Name": "광어회사랑",
+        "Rate": "2.7"
+    },
+    {
+        "Address": "대전 중구 보문로230번길 58 1층 카페모먼트 (우)34919",
+        "Operation": "매일 12:00 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/1335296399",
+        "Name": "카페모먼트",
+        "Rate": "4.4"
+    },
+    {
+        "Address": "대전 중구 태평로26번길 75 1층 (우)34887",
+        "Operation": "월~토 17:00 ~ 23:00",
+        "Homepage": "https://place.map.kakao.com/917897312",
+        "Name": "3대째 신대상회",
+        "Rate": "5.0"
+    },
+    {
+        "Address": "대전 중구 대흥로 14 1층 (우)34945",
+        "Operation": "알수없음",
+        "Homepage": "https://place.map.kakao.com/619025689",
+        "Name": "산내한우",
+        "Rate": "4.8"
+    },
+    {
+        "Address": "대전 중구 중앙로170번길 48 (우)34923",
+        "Operation": "화~금 13:00 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/25467689",
+        "Name": "데이즈",
+        "Rate": "4.1"
+    },
+    {
+        "Address": "대전 중구 중앙로112번길 37 동양청사진 1층 1호 (우)34916",
+        "Operation": "매일 12:00 ~ 19:00",
+        "Homepage": "https://place.map.kakao.com/673022665",
+        "Name": "콜드버터베이크샵",
+        "Rate": "4.2"
+    },
+    {
+        "Address": "대전 중구 중앙로138번길 34 1층 (우)34915",
+        "Operation": "매일 13:00 ~ 01:00",
+        "Homepage": "https://place.map.kakao.com/2073135680",
+        "Name": "양연화로 대흥점",
+        "Rate": "2.7"
+    },
+    {
+        "Address": "대전 중구 방아미로 95-51 (우)35086",
+        "Operation": "매일 10:30 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/24122809",
+        "Name": "대전송어장",
+        "Rate": "3.4"
+    },
+    {
+        "Address": "대전 중구 대흥로 9 (우)34944",
+        "Operation": "매일 12:00 ~ 01:00",
+        "Homepage": "https://place.map.kakao.com/27302131",
+        "Name": "4시30분 왕족발",
+        "Rate": "4.7"
+    },
+    {
+        "Address": "대전 중구 중교로 48 1층 (우)34919",
+        "Operation": "매일 15:00 ~ 01:00",
+        "Homepage": "https://place.map.kakao.com/1441818696",
+        "Name": "한마음정육식당 대흥점",
+        "Rate": "4.8"
+    },
+    {
+        "Address": "대전 중구 계룡로874번길 27-9 (우)34909",
+        "Operation": "매일 11:00 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/9258873",
+        "Name": "영동식당",
+        "Rate": "4.4"
+    },
+    {
+        "Address": "대전 중구 우암로 12 (우)34831",
+        "Operation": "매일 10:00 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/9576600",
+        "Name": "24시대전해장국",
+        "Rate": "3.0"
+    },
+    {
+        "Address": "대전 중구 계백로1716번길 24 (우)34956",
+        "Operation": "매일 10:30 ~ 21:30",
+        "Homepage": "https://place.map.kakao.com/16825724",
+        "Name": "영심이분식",
+        "Rate": "3.0"
+    },
+    {
+        "Address": "대전 중구 과례로22번길 35 (우)35053",
+        "Operation": "월~토 11:00 ~ 14:00",
+        "Homepage": "https://place.map.kakao.com/1839649916",
+        "Name": "영광맛집&cafe",
+        "Rate": "4.5"
+    },
+    {
+        "Address": "알수없음",
+        "Operation": "알수없음",
+        "Homepage": "https://place.map.kakao.com/1135299922",
+        "Name": "알수없음",
+        "Rate": "알수없음"
+    },
+    {
+        "Address": "대전 중구 중앙로129번길 22 1층 (우)34838",
+        "Operation": "매일 10:00 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/1384724254",
+        "Name": "비래옥",
+        "Rate": "4.5"
+    },
+    {
+        "Address": "대전 중구 유천로86번길 31 (우)34897",
+        "Operation": "월~토 18:30 ~ 04:00",
+        "Homepage": "https://place.map.kakao.com/27375844",
+        "Name": "심야식당11월6일",
+        "Rate": "4.4"
+    },
+    {
+        "Address": "대전 중구 대흥로121번길 30-8 (우)34919",
+        "Operation": "화~일 12:00 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/13725494",
+        "Name": "모모제인",
+        "Rate": "4.1"
+    },
+    {
+        "Address": "대전 중구 보문산공원로 530 (우)35044",
+        "Operation": "매일 08:00 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/10114559",
+        "Name": "가보자보리밥",
+        "Rate": "4.0"
+    },
+    {
+        "Address": "대전 중구 중교로 74-9 (우)34925",
+        "Operation": "매일 17:00 ~ 01:00 (재료 소진시 조기마감)",
+        "Homepage": "https://place.map.kakao.com/27479407",
+        "Name": "제주돈마시",
+        "Rate": "4.1"
+    },
+    {
+        "Address": "대전 중구 태평로14번길 7 1층 (우)34891",
+        "Operation": "매일 11:00 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/2082806718",
+        "Name": "공주칼국수 쭈꾸미마당 유천직영점",
+        "Rate": "3.0"
+    },
+    {
+        "Address": "대전 중구 목중로 39 (우)34811",
+        "Operation": "매일 10:30 ~ 21:30",
+        "Homepage": "https://place.map.kakao.com/11295665",
+        "Name": "의정부아우네 부대찌개",
+        "Rate": "3.9"
+    },
+    {
+        "Address": "대전 중구 동서대로 1228-8 1층 (우)34892",
+        "Operation": "매일 11:00 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/9761901",
+        "Name": "맛나감자탕 태평점",
+        "Rate": "4.8"
+    },
+    {
+        "Address": "대전 중구 중교로 47 (우)34915",
+        "Operation": "월~금 17:00 ~ 03:00",
+        "Homepage": "https://place.map.kakao.com/16565163",
+        "Name": "열개의테이블",
+        "Rate": "4.3"
+    },
+    {
+        "Address": "대전 중구 선화서로19번길 11 (우)34866",
+        "Operation": "매일 17:00 ~ 02:00",
+        "Homepage": "https://place.map.kakao.com/1466841904",
+        "Name": "코리아나양대창",
+        "Rate": "3.2"
+    },
+    {
+        "Address": "대전 중구 중앙로170번길 28 2층 (우)34922",
+        "Operation": "매일 11:00 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/8016072",
+        "Name": "와와돈",
+        "Rate": "4.3"
+    },
+    {
+        "Address": "대전 중구 유천로 53 1층 (우)34973",
+        "Operation": "매일 12:00 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/16126225",
+        "Name": "두메산골본가",
+        "Rate": "4.9"
+    },
+    {
+        "Address": "대전 중구 중앙로156번길 42 (우)34924",
+        "Operation": "월~금 11:30 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/20332938",
+        "Name": "봉대박스파게티 대전은행점",
+        "Rate": "4.6"
+    },
+    {
+        "Address": "대전 중구 대종로460번길 38 (우)34926",
+        "Operation": "알수없음",
+        "Homepage": "https://place.map.kakao.com/18340852",
+        "Name": "대흥동원조황소집",
+        "Rate": "4.3"
+    },
+    {
+        "Address": "대전 중구 동서대로 1200-7 1층 (우)34884",
+        "Operation": "매일 11:00 ~ 21:30",
+        "Homepage": "https://place.map.kakao.com/2130314704",
+        "Name": "태평한우",
+        "Rate": "4.5"
+    },
+    {
+        "Address": "대전 중구 중앙로112번길 24 (우)34911",
+        "Operation": "월,화,수,목,금,일 11:30 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/661505624",
+        "Name": "오복식탁",
+        "Rate": "4.1"
+    },
+    {
+        "Address": "대전 중구 선화로22번길 18 1층 (우)34868",
+        "Operation": "월~토 11:00 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/756171215",
+        "Name": "팔도청국장 갓솥 대전본점",
+        "Rate": "4.5"
+    },
+    {
+        "Address": "대전 중구 대종로480번길 50 1층 (우)34923",
+        "Operation": "화~일 11:00 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/1865654270",
+        "Name": "연우동 은행동본점",
+        "Rate": "4.1"
+    },
+    {
+        "Address": "대전 중구 대종로505번길 31 (우)34838",
+        "Operation": "매일 10:30 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/11238235",
+        "Name": "청양칼국수",
+        "Rate": "4.1"
+    },
+    {
+        "Address": "대전 중구 충무로 144-1 1층 (우)35027",
+        "Operation": "화~일 10:00 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/685535453",
+        "Name": "은영네한우내장탕",
+        "Rate": "4.4"
+    },
+    {
+        "Address": "대전 중구 대흥로157번길 48 3층 (우)34925",
+        "Operation": "매일 11:00 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/15177621",
+        "Name": "헤이독 대전점",
+        "Rate": "3.3"
+    },
+    {
+        "Address": "대전 중구 태평로26번길 33 (우)34887",
+        "Operation": "매일 17:00 ~ 01:00",
+        "Homepage": "https://place.map.kakao.com/26166944",
+        "Name": "립앤갈비 유천점",
+        "Rate": "4.4"
+    },
+    {
+        "Address": "대전 중구 계백로 1709 상가 1층 (우)34909",
+        "Operation": "매일 11:00 ~ 01:00",
+        "Homepage": "https://place.map.kakao.com/1259490801",
+        "Name": "택이네조개전골 대전오류점",
+        "Rate": "4.6"
+    },
+    {
+        "Address": "대전 중구 계백로1618번길 62 1층 (우)34967",
+        "Operation": "화~토 11:00 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/4363226",
+        "Name": "카페익투스",
+        "Rate": "5.0"
+    },
+    {
+        "Address": "대전 중구 대둔산로 149 (우)35085",
+        "Operation": "매일 10:30 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/871047693",
+        "Name": "강연우동태찌개",
+        "Rate": "4.0"
+    },
+    {
+        "Address": "대전 중구 중앙로164번길 45 (우)34923",
+        "Operation": "매일 00:00 ~ 24:00",
+        "Homepage": "https://place.map.kakao.com/15939234",
+        "Name": "엄마손 묵은지와 감자탕",
+        "Rate": "35"
+    },
+    {
+        "Address": "대전 중구 대흥로 137 (우)34919",
+        "Operation": "월~금 15:00 ~ 00:30",
+        "Homepage": "https://place.map.kakao.com/390512907",
+        "Name": "부여통닭 대흥점",
+        "Rate": "4.3"
+    },
+    {
+        "Address": "대전 중구 중교로 92 (우)34926",
+        "Operation": "매일 17:00 ~ 02:00",
+        "Homepage": "https://place.map.kakao.com/21338934",
+        "Name": "꾸미신닭발",
+        "Rate": "4.7"
+    },
+    {
+        "Address": "대전 중구 충무로 73 (우)34954",
+        "Operation": "월요일",
+        "Homepage": "https://place.map.kakao.com/10223000",
+        "Name": "극동제과",
+        "Rate": "5.0"
+    },
+    {
+        "Address": "대전 중구 대흥로 161 1층 (우)34927",
+        "Operation": "월,수,목,금,토,일 11:00 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/1405265808",
+        "Name": "뼈구이 농민뜨끈이",
+        "Rate": "5.0"
+    },
+    {
+        "Address": "대전 중구 충무로 104 1층 (우)35021",
+        "Operation": "화~일 11:00 ~ 20:00",
+        "Homepage": "https://place.map.kakao.com/18476839",
+        "Name": "동춘원",
+        "Rate": "4.1"
+    },
+    {
+        "Address": "대전 중구 중앙로138번길 34 지하1층 (우)34915",
+        "Operation": "매일 17:00 ~ 02:00",
+        "Homepage": "https://place.map.kakao.com/2050808929",
+        "Name": "이자카야진진",
+        "Rate": "2.5"
+    },
+    {
+        "Address": "대전 중구 중촌로24번길 29 1층 (우)34812",
+        "Operation": "월~토 11:00 ~ 21:30",
+        "Homepage": "https://place.map.kakao.com/908914767",
+        "Name": "보리고개",
+        "Rate": "4.6"
+    },
+    {
+        "Address": "대전 중구 대종로480번길 16 1층 (우)34924",
+        "Operation": "매일 10:00 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/21435247",
+        "Name": "도쿄돈부리 대전은행점",
+        "Rate": "3.0"
+    },
+    {
+        "Address": "대전 중구 대종로480번길 16 2층 (우)34924",
+        "Operation": "매일 11:30 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/1738550388",
+        "Name": "한끼맛있다 대전은행점",
+        "Rate": "3.6"
+    },
+    {
+        "Address": "대전 중구 계룡로 932-1 (우)34964",
+        "Operation": "매일 11:00 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/13573988",
+        "Name": "예가촌",
+        "Rate": "3.4"
+    },
+    {
+        "Address": "대전 중구 대종로 487-9 1층 (우)34914",
+        "Operation": "월~토 18:00 ~ 01:00",
+        "Homepage": "https://place.map.kakao.com/173808065",
+        "Name": "곱창군 대흥점",
+        "Rate": "5.0"
+    },
+    {
+        "Address": "대전 중구 중교로 53 (우)34915",
+        "Operation": "화~금 17:00 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/19960421",
+        "Name": "코바그릴",
+        "Rate": "3.7"
+    },
+    {
+        "Address": "대전 중구 중앙로156번길 25 2층 (우)34921",
+        "Operation": "매일 11:00 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/27261620",
+        "Name": "두끼떡볶이 대전은행점",
+        "Rate": "2.4"
+    },
+    {
+        "Address": "대전 중구 중앙로130번길 24 1층 (우)34913",
+        "Operation": "매일 00:00 ~ 24:00",
+        "Homepage": "https://place.map.kakao.com/1991241968",
+        "Name": "이순신소국밥 대흥 옥포점",
+        "Rate": "2.2"
+    },
+    {
+        "Address": "대전 중구 어덕마을로 42-5 1층 (우)34819",
+        "Operation": "매일 13:00 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/27204393",
+        "Name": "몽그라운드카페",
+        "Rate": "4.6"
+    },
+    {
+        "Address": "대전 중구 중앙로109번길 30 (우)34839",
+        "Operation": "일요일",
+        "Homepage": "https://place.map.kakao.com/8175892",
+        "Name": "고려회관",
+        "Rate": "3.2"
+    },
+    {
+        "Address": "대전 중구 대흥로 44 (우)34943",
+        "Operation": "화~토 11:30 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/1633784315",
+        "Name": "트루",
+        "Rate": "4.6"
+    },
+    {
+        "Address": "대전 중구 대흥로121번길 44 1층 (우)34919",
+        "Operation": "매일 11:00 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/982183204",
+        "Name": "카페뮤제",
+        "Rate": "4.1"
+    },
+    {
+        "Address": "대전 중구 동서대로 1199 1층 (우)34880",
+        "Operation": "매일 09:30 ~ 21:30",
+        "Homepage": "https://place.map.kakao.com/10360894",
+        "Name": "류근선의 진국설렁탕",
+        "Rate": "3.9"
+    },
+    {
+        "Address": "대전 중구 보문산공원로 527-4 1층 (우)35043",
+        "Operation": "매일 10:00 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/1050412944",
+        "Name": "보문산본가누룽지삼계탕",
+        "Rate": "3.6"
+    },
+    {
+        "Address": "대전 중구 유천로 57 1층 (우)34973",
+        "Operation": "화~일 11:30 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/1306159369",
+        "Name": "황제명태본가 직영점",
+        "Rate": "3.3"
+    },
+    {
+        "Address": "대전 중구 대흥로165번길 43 1층 (우)34925",
+        "Operation": "월,화,수,목,일 11:00 ~ 22:00",
+        "Homepage": "https://place.map.kakao.com/34456921",
+        "Name": "화샨샤브 은행점",
+        "Rate": "4.3"
+    },
+    {
+        "Address": "대전 중구 보문산공원로497번안길 50 1층 (우)35052",
+        "Operation": "매일 09:00 ~ 18:00",
+        "Homepage": "https://place.map.kakao.com/159353895",
+        "Name": "카페쉼표",
+        "Rate": "4.4"
+    },
+    {
+        "Address": "대전 중구 중교로 73 2층 (우)34924",
+        "Operation": "화~일 12:00 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/26580655",
+        "Name": "팬텀팬스테이크",
+        "Rate": "3.8"
+    },
+    {
+        "Address": "대전 중구 중앙로130번길 37-6 (우)34915",
+        "Operation": "월,화,수,목,일 18:00 ~ 04:00",
+        "Homepage": "https://place.map.kakao.com/1870550838",
+        "Name": "왼손잡이",
+        "Rate": "3.8"
+    },
+    {
+        "Address": "대전 중구 대흥로 32 (우)34943",
+        "Operation": "매일 11:00 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/8570230",
+        "Name": "풍미식당",
+        "Rate": "3.9"
+    },
+    {
+        "Address": "대전 중구 대흥로121번길 28 (우)34919",
+        "Operation": "알수없음",
+        "Homepage": "https://place.map.kakao.com/10842917",
+        "Name": "충남민물장어",
+        "Rate": "4.7"
+    },
+    {
+        "Address": "대전 중구 계백로 1697-27 101호 (우)34909",
+        "Operation": "화~일 17:00 ~ 23:00",
+        "Homepage": "https://place.map.kakao.com/1185104559",
+        "Name": "등갈비여관",
+        "Rate": "4.8"
+    },
+    {
+        "Address": "대전 중구 어덕마을로 146 1, 2층 (우)34803",
+        "Operation": "매일 11:00 ~ 23:00",
+        "Homepage": "https://place.map.kakao.com/681833643",
+        "Name": "한마음정육식당 중촌점",
+        "Rate": "4.5"
+    },
+    {
+        "Address": "대전 중구 계룡로874번길 17 (우)34909",
+        "Operation": "월~토 11:30 ~ 20:00",
+        "Homepage": "https://place.map.kakao.com/1051917554",
+        "Name": "반석돈가스",
+        "Rate": "4.9"
+    },
+    {
+        "Address": "대전 중구 계룡로920번안길 68 1층 (우)34964",
+        "Operation": "월~금 10:30 ~ 20:00",
+        "Homepage": "https://place.map.kakao.com/1391663249",
+        "Name": "마스커피",
+        "Rate": "4.0"
+    },
+    {
+        "Address": "대전 중구 계백로 1697-9 (우)34909",
+        "Operation": "매일 11:30 ~ 21:30",
+        "Homepage": "https://place.map.kakao.com/1510541234",
+        "Name": "삼대째손두부",
+        "Rate": "2.3"
+    },
+    {
+        "Address": "대전 중구 중앙로122번길 42 2층 (우)34916",
+        "Operation": "화~일 11:30 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/27358936",
+        "Name": "더샐",
+        "Rate": "4.8"
+    },
+    {
+        "Address": "대전 중구 유천로102번길 27 (우)34897",
+        "Operation": "월~토 11:00 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/10643750",
+        "Name": "영빈돌솥밥돌구이",
+        "Rate": "4.0"
+    },
+    {
+        "Address": "대전 중구 대종로296번길 17 (우)35033",
+        "Operation": "매일 11:00 ~ 21:00",
+        "Homepage": "https://place.map.kakao.com/12368102",
+        "Name": "해뜨는집",
+        "Rate": "5.0"
+    },
+    {
+        "Address": "대전 중구 중앙로112번길 42 (우)34916",
+        "Operation": "화~금 11:30 ~ 21:30",
+        "Homepage": "https://place.map.kakao.com/26797711",
+        "Name": "얌얌타이",
+        "Rate": "4.3"
+    },
+    {
+        "Address": "대전 중구 동서대로1304번길 30 1층 (우)34902",
+        "Operation": "월,화,수,목,금,일 11:00 ~ 20:00",
+        "Homepage": "https://place.map.kakao.com/2127960925",
+        "Name": "초월짬뽕",
+        "Rate": "4.3"
+    }
+]

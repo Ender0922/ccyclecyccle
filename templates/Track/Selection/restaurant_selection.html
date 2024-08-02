@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="../static/Track/Selection/restaurant_selection_script.js" defer></script>
+    <link rel="stylesheet" href="../static/Track/Selection/restaurant_selection_style.css">
+    <link rel="stylesheet" href="/static/Menu/menu_style.css">
+    <script src="/static/Menu/menu_script.js" defer></script>
+    <title>시끌시끌</title>
+</head>
+
+<body>
+    <div class="header">
+        <div class="hamburger-menu" id="hamburger-menu">
+            &#9776;
+        </div>
+        <div class="logo_container">
+            <img src="/static/logo.png" alt="logo" class="logo" />
+        </div>
+        <nav class="sidebar" id="sidebar">
+            <ul class="sidebar-nav">
+                <li class="nav-item"><a href="/../../../" class="nav-link">홈</a></li>
+                <li class="nav-item"><a href="/../../../management" class="nav-link">트랙관리</a></li>
+                <li class="nav-item"><a href="#" class="nav-link">설정</a></li>
+            </ul>
+        </nav>
+    </div>
+    <div class="scroll-container">
+        <div class="track_container" id="track-container">
+            {% for restaurant in recommended_restaurant %}
+            <div class="track" data-homepage="{{ restaurant['Homepage'] }}" data-address="{{ restaurant['Address'] }}">
+                {{ restaurant['Name'] }}
+                <span class="operation">{{ restaurant['Operation'] }}</span>
+                <span class="rate">{{ restaurant['Rate'] }}</span>
+                <button class="detail-button">상세페이지</button>
+            </div>            
+            {% endfor %}
+        </div>
+    </div>
+    
+    <div class="highlight-box" id="highlight-box">
+        <a id="highlight-text" class="nav-button">음식점 선택</a>
+    </div>
+
+    <div id="detail-container" class="detail-container">
+        <div class="detail-header">
+            <img src="/static/logo.png" alt="logo" class="logo" />
+            <button id="close-detail" class="close-detail">X</button>
+        </div>
+        <iframe id="detail-iframe" class="detail-iframe" src="" frameborder="0"></iframe>
+    </div>
+</body>
+
+</html>

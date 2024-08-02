@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>시끌시끌</title>
+    <link rel="stylesheet" href="/static/Track/Selection/menu_prefer_selection_style.css">
+    <script src="/static/Track/Selection/menu_prefer_selection_script.js"></script>
+    <link rel="stylesheet" href="/static/Menu/menu_style.css">
+    <script src="/static/Menu/menu_script.js"></script>
+</head>
+<body>
+    <div class="header">
+        <div class="hamburger-menu" id="hamburger-menu">
+            &#9776;
+        </div>
+        <div class="logo_container">
+            <img src="../static/logo.png" alt="logo" class="logo"/>
+        </div>
+        <nav class="sidebar" id="sidebar">
+            <ul class="sidebar-nav">
+                <li class="nav-item"><a href="/" class="nav-link">홈</a></li>
+                <li class="nav-item"><a href="/management" class="nav-link">트랙관리</a></li>
+                <li class="nav-item"><a href="#" class="nav-link">설정</a></li>
+            </ul>
+        </nav>
+    </div>
+    <div class="scroll-container">
+        <h1>어떤 음식을 좋아하시나요?</h1>
+        <div class="container">
+            <div class="selection-row">
+                <div class="selection-box" data-prefer="한식">한식</div>
+                <div class="selection-box" data-prefer="양식">양식</div>
+                <div class="selection-box" data-prefer="중식">중식</div>
+                <div class="selection-box" data-prefer="일식">일식</div>
+                <div class="selection-box" data-prefer="동남아시아식">동남아시아식</div>
+            </div>
+            <div class="selection-row">
+                <div class="selection-box" data-prefer="빵">빵</div>
+                <div class="selection-box" data-prefer="밥">밥</div>
+                <div class="selection-box" data-prefer="면">면</div>
+                <div class="selection-box" data-prefer="고기">고기</div>
+                <div class="selection-box" data-prefer="기타">기타</div>
+            </div>
+            <div class="selection-row">
+                <div class="selection-box" data-prefer="매움">매움</div>
+                <div class="selection-box" data-prefer="안매움">안매움</div>
+            </div>
+        </div>
+    </div>
+    <div class="highlight-box" id="highlight-box">
+        <a id="highlight-text" class="nav-button">선택 완료</a>
+    </div>
+</body>
+</html>

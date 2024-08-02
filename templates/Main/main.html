@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>시끌시끌</title>
+    <link rel="stylesheet" href="/static/Main/main_style.css">
+    <link rel="stylesheet" href="/static/Menu/menu_style.css">
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDkPWI-Lb7GbibqP7_PUkcICADaN3PFXU0"></script>
+    <script src="/static/Main/main_script.js"></script>
+    <script src="/static/Menu/menu_script.js"></script>
+</head>
+<body onload="initMap()">
+    <div class="logo_container">
+        <img src="/static/logo.png" alt="logo" class="logo"/>
+    </div>
+    <div class="hamburger-menu" id="hamburger-menu">
+        &#9776;
+    </div>
+    <nav class="sidebar" id="sidebar">
+        <ul class="sidebar-nav">
+            <li class="nav-item"><a href="/../../../" class="nav-link">홈</a></li>
+            <li class="nav-item"><a href="/../../../management" class="nav-link">트랙관리</a></li>
+            <li class="nav-item"><a href="#" class="nav-link">설정</a></li>
+        </ul>
+    </nav>
+    <div id="map"></div>
+    <div class="button-container">
+        <a href="../people_selection" class="nav-button">여행 시작하기</a>
+    </div>
+</html>
